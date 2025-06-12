@@ -11,6 +11,13 @@ const word = document.getElementById('word');
 const ipa = document.getElementById('ipa');
 const pos = document.getElementById('pos');
 const mean = document.getElementById('mean');
+const img = document.getElementById('img');
+const count = document.getElementById('count');
+const back = document.getElementById('back');
+
+img.onerror = () => {
+    img.removeAttribute('src');
+};
 
 const soundIcon = document.getElementById('sound-icon');
 const repeatIcon = document.getElementById('repeat-icon');
@@ -23,6 +30,14 @@ soundIcon.onclick = function () {
 repeatIcon.onclick = function () {
     playSound(audioUrl)
 }
+
+back.onclick = function () {
+    if (currentIndex > 0) {
+        currentIndex--;
+        renderWord()
+        checkImage()
+    }
+};
 
 function playSound(url) {
     // loại bỏ audio cũ
@@ -52,6 +67,16 @@ function playSound(url) {
     audio.addEventListener('error', onError);
 }
 
+function checkImage() {
+    const el = document.getElementById('wrapper');
+    if (isShow) {
+        el.style.display = !img.getAttribute('src') ? 'none' : 'flex'
+        img.style.display = !img.getAttribute('src') ? 'none' : 'block'
+    } else {
+        el.style.display = 'none'
+        img.style.display = 'none'
+    }
+}
 
 document.addEventListener('click', function (event) {
     // Bỏ qua nếu click vào ảnh
@@ -81,9 +106,9 @@ document.addEventListener('click', function (event) {
             el.style.display = isHidden ? 'block' : 'none';
         }
     });
+
+    checkImage()
 });
-
-
 
 function getData(filePath) {
     return fetch(filePath)
@@ -101,13 +126,16 @@ function splitWithLimit(str, delimiter, maxSplits) {
 }
 
 function renderWord() {
-    let [_name, _ipa, _pos, _sound, _mean] = splitWithLimit(listWord[currentIndex], ',', 4)
+    let [_name, _ipa, _pos, _sound, _img, _mean] = splitWithLimit(listWord[currentIndex], ',', 5)
     _mean = _mean.replace(/"/g, '');
     word.textContent = _name
     ipa.textContent = _ipa
     pos.textContent = _pos
     mean.textContent = _mean
+    img.src = _img
     audioUrl = _sound
+
+    count.innerText = `${currentIndex+1}/${lenListWord}`
 }
 
 function start() {

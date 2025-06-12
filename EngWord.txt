@@ -1,541 +1,541 @@
-﻿arm,/ɑːrm/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/arm/arm__/arm.mp3,cánh tay
-back,/bæk/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bac/back_/back.mp3,cái lưng
-belly,/ˈbel.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bel/belly/belly.mp3,cái bụng
-blood,/blʌd/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/blo/blood/blood.mp3,máu
-body,/ˈbɑː.di/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bod/body_/body.mp3,cơ thể
-bone,/boʊn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bon/bone_/bone.mp3,xương
-bottom,/ˈbɑː.t̬əm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bot/botto/bottom.mp3,cái mông
-brain,/breɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brain/brain.mp3,bộ não
-chest,/tʃest/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chest/chest.mp3,"ngực, lồng ngực"
-ear,/ɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/ear/ear__/ear.mp3,cái tai
-eye,/aɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aye/aye__/aye.mp3,con mắt
-face,/feɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fac/face_/face.mp3,khuôn mặt
-finger,/ˈfɪŋ.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fin/finge/finger.mp3,ngón tay
-foot,/fʊt/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/foo/foot_/foot.mp3,bàn chân
-hair,/her/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hai/hair_/hair.mp3,tóc
-hand,/hænd/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/han/hand_/hand.mp3,bàn tay
-head,/hed/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hea/head_/head.mp3,cái đầu
-heart,/hɑːrt/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hea/heart/heart.mp3,trái tim
-hip,/hɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hip/hip__/hip.mp3,hông (vùng dưới eo)
-leg,/leɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/leg/leg__/leg.mp3,cái chân
-lip,/lɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lip/lip__/lip.mp3,cái môi
-mouth,/maʊθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mou/mouth/mouth.mp3,cái miệng
-neck,/nek/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/nec/neck_/neck.mp3,cái cổ
-nose,/noʊz/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noe/noes_/noes.mp3,cái mũi
-shoulder,/ˈʃoʊl.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sho/shoul/shoulder.mp3,cái vai
-skin,/skɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/ski/skin_/skin.mp3,làn da
-thigh,/θaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thigh/thigh.mp3,cái đùi
-toe,/toʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/toe/toe__/toe.mp3,ngón chân
-tongue,/tʌŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/ton/tongu/tongue.mp3,cái lưỡi
-tooth,/tuːθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/too/tooth/tooth.mp3,cái răng
-waist,/weɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wai/waist/waist.mp3,"eo, vòng eo"
-attractive,/əˈtræk.tɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/att/attra/attractive.mp3,"quyến rũ, hấp dẫn"
-beautiful,/ˈbjuː.t̬ə.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70469.mp3,"đẹp, xinh đẹp"
+﻿arm,/ɑːrm/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/arm/arm__/arm.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/arm_l4igpn.jpg,cánh tay
+back,/bæk/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bac/back_/back.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/back_wu5qf6.jpg,cái lưng
+belly,/ˈbel.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bel/belly/belly.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/belly_hp2i5p.jpg,cái bụng
+blood,/blʌd/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/blo/blood/blood.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/blood_bij1ta.jpg,máu
+body,/ˈbɑː.di/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bod/body_/body.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/body_ljywmo.jpg,cơ thể
+bone,/boʊn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bon/bone_/bone.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/bone_jlbgog.jpg,xương
+bottom,/ˈbɑː.t̬əm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bot/botto/bottom.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/bottom_cfzvmu.jpg,cái mông
+brain,/breɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brain/brain.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/brain_l1iorf.jpg,bộ não
+chest,/tʃest/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chest/chest.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/chest_xet8vz.jpg,"ngực, lồng ngực"
+ear,/ɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/ear/ear__/ear.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/ear_le4qro.jpg,cái tai
+eye,/aɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aye/aye__/aye.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/eye_bms8vi.jpg,con mắt
+face,/feɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fac/face_/face.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707157/face_xnuom1.jpg,khuôn mặt
+finger,/ˈfɪŋ.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fin/finge/finger.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/finger_lvgvsl.jpg,ngón tay
+foot,/fʊt/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/foo/foot_/foot.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/foot_fgahid.jpg,bàn chân
+hair,/her/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hai/hair_/hair.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707158/hair_a9ju8k.jpg,tóc
+hand,/hænd/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/han/hand_/hand.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/hand_f8xu7b.jpg,bàn tay
+head,/hed/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hea/head_/head.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/head_hlv50o.jpg,cái đầu
+heart,/hɑːrt/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hea/heart/heart.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/heart_ajqkqt.jpg,trái tim
+hip,/hɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hip/hip__/hip.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/hip_dvgdqn.jpg,hông (vùng dưới eo)
+leg,/leɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/leg/leg__/leg.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707159/leg_pqbjlj.jpg,cái chân
+lip,/lɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lip/lip__/lip.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/lip_ftzmx4.jpg,cái môi
+mouth,/maʊθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mou/mouth/mouth.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/lip_ftzmx4.jpg,cái miệng
+neck,/nek/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/nec/neck_/neck.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/neck_fcphbd.jpg,cái cổ
+nose,/noʊz/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noe/noes_/noes.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/nose_xnf4y4.jpg,cái mũi
+shoulder,/ˈʃoʊl.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sho/shoul/shoulder.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/shoulder_ptjjpi.jpg,cái vai
+skin,/skɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/ski/skin_/skin.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/skin_yqsgni.jpg,làn da
+thigh,/θaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thigh/thigh.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/thigh_kw7f96.jpg,cái đùi
+toe,/toʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/toe/toe__/toe.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/toe_yfvthe.jpg,ngón chân
+tongue,/tʌŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/ton/tongu/tongue.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/tongue_cmgbax.jpg,cái lưỡi
+tooth,/tuːθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/too/tooth/tooth.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707160/tooth_max9nv.jpg,cái răng
+waist,/weɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wai/waist/waist.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707161/waist_vwrhbo.jpg,"eo, vòng eo"
+attractive,/əˈtræk.tɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/att/attra/attractive.mp3,,"quyến rũ, hấp dẫn"
+beautiful,/ˈbjuː.t̬ə.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70469.mp3,,"đẹp, xinh đẹp"
 body shape,/ˈbɑː.di ʃeɪp/,noun,,"vóc dáng, thân hình"
-charming,/ˈtʃɑr·mɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cha/charm/charming.mp3,"quyến rũ, thu hút"
-cute,/kjuːt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cut/cute_/cute.mp3,"đáng yêu, dễ thương"
-fat,/fæt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fat/fat__/fat.mp3,"béo, thừa cân"
-feature,/ˈfiː.tʃɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fea/featu/feature.mp3,"đặc điểm, nét nổi bật"
-fit,/fɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fit/fit__/fit.mp3,"cân đối, gọn gàng"
-good-looking,/ˌɡʊdˈlʊk.ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00584.mp3,"ưa nhìn, sáng sủa"
-handsome,/ˈhæn.səm/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/han/hands/handsome.mp3,đẹp trai
-height,/haɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hei/heigh/height.mp3,chiều cao
-lovely,/ˈlʌv.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/lov/lovel/lovely.mp3,đáng yêu
-muscular,/ˈmʌs.kjə.lɚ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mus/muscu/muscular.mp3,"cơ bắp, lực lưỡng"
-pretty,/ˈprɪt̬.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73704.mp3,xinh xắn
-short,/ʃɔːrt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sho/short/short.mp3,thấp
-tall,/tɑːl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tal/tall_/tall.mp3,cao
-thin,/θɪn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thin_/thin.mp3,"gầy, ốm, mỏng"
-ugly,/ˈʌɡ.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/ugl/ugly_/ugly.mp3,xấu xí
-weight,/weɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wai/wait_/wait.mp3,cân nặng
-active,/ˈæk.tɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/act/activ/active.mp3,năng động
-brave,/breɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brave/brave.mp3,"can đảm, dũng cảm"
-careful,/ˈker.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/car/caref/careful.mp3,cẩn thận
-cautious,/ˈkɑː.ʃəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cau/cauti/cautious.mp3,"cẩn trọng, dè dặt"
-cheerful,/ˈtʃɪr.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/che/cheer/cheerful.mp3,vui vẻ
-clever,/ˈklev.ɚ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cle/cleve/clever.mp3,"lanh lợi, khéo léo"
-confident,/ˈkɑːn.fə.dənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/confi/confident.mp3,tự tin
-creative,/kriˈeɪ.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75512.mp3,sáng tạo
-easy-going,/ˌiː.ziˈɡoʊ.ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00394.mp3,dễ gần
-enthusiastic,/ɪnˌθuː.ziˈæs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71573.mp3,"nhiệt tình, hăng hái"
-excited,/ɪkˈsaɪ.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/exc/excit/excited.mp3,"thú vị, hào hứng"
-friendly,/ˈfrend.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fri/frien/friendly.mp3,thân thiện
-funny,/ˈfʌn.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fun/funny/funny.mp3,vui nhộn
-hardworking,/ˈhɑrdˈwɜr·kɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/har/hardw/hardworking.mp3,chăm chỉ
-honest,/ˈɑː.nɪst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hon/hones/honest.mp3,trung thực
-humorous,/ˈhjuː.mə.rəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hum/humor/humorous.mp3,hài hước
-independent,/ˌɪn.dɪˈpen.dənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/ind/indep/independent.mp3,độc lập
-intelligent,/ɪnˈtel.ə.dʒənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/int/intel/intelligent.mp3,thông minh
-kind,/kaɪnd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/k/kin/kind_/kind.mp3,tốt bụng
-observant,/əbˈzɝː.vənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75117.mp3,tinh ý
-open-minded,/ˌoʊ.pənˈmaɪn.dɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00997.mp3,cởi mở
-optimistic,/ˌɑːp.təˈmɪs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75258.mp3,lạc quan
-patient,/ˈpeɪ.ʃənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pat/patie/patient.mp3,kiên nhẫn
-polite,/pəˈlaɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pol/polit/polite.mp3,lịch sự
-sociable,/ˈsoʊ.ʃə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/soc/socia/sociable.mp3,hòa đồng
-soft,/sɑːft/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sof/soft_/soft.mp3,dịu dàng
-talented,/ˈtæl.ən.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tal/talen/talented.mp3,tài năng
-talkative,/ˈtɑː.kə.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74476.mp3,hoạt ngôn
-understanding,/ˌʌn.dɚˈstæn.dɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/und/under/understanding.mp3,thấu hiểu
-erudite,/ˈer.jə.daɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eru/erudi/erudite.mp3,uyên bác
-nice,/naɪs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/n/nic/nice_/nice.mp3,"tốt bụng, dễ mến"
-generous,/ˈdʒen.ər.əs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gener/generous.mp3,hào phóng
-serious,/ˈsɪr.i.əs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/ser/serio/serious.mp3,nghiêm túc
-faithful,/ˈfeɪθ.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fai/faith/faithful.mp3,trung thành
-gentle,/ˈdʒen.t̬əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gentl/gentle.mp3,"dịu dàng, lịch thiệp"
-aggressive,/əˈɡres.ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/agg/aggre/aggressive.mp3,hung hăng
-arrogant,/ˈer.ə.ɡənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/arr/arrog/arrogant.mp3,kiêu ngạo
-bad-tempered,/ˌbædˈtemp.ɚd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cus/cus00/cus00138.mp3,nóng tính
-boring,/ˈbɔː.rɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bor/borin/boring.mp3,buồn chán
-careless,/ˈker.ləs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/car/carel/careless.mp3,bất cẩn
-cruel,/ˈkruː.əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cru/cruel/cruel.mp3,độc ác
-haughty,/ˈhɑː.t̬i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72171.mp3,kiêu căng
-lazy,/ˈleɪ.zi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/laz/lazy_/lazy.mp3,lười biếng
-mean,/miːn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mea/mean_/mean.mp3,keo kiệt
-pessimistic,/ˌpes.əˈmɪs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pes/pessi/pessimistic.mp3,bi quan
-reckless,/ˈrek.ləs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/r/rec/reckl/reckless.mp3,"hấp tấp, liều lĩnh"
-rude,/ruːd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/r/rud/rude_/rude.mp3,thô lỗ
-selfish,/ˈsel.fɪʃ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sel/selfi/selfish.mp3,ích kỷ
-shy,/ʃaɪ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/shy/shy__/shy.mp3,"ngại ngùng, nhút nhát"
-strict,/strɪkt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/str/stric/strict.mp3,nghiêm khắc
-stupid,/ˈstuː.pɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stupi/stupid.mp3,ngu ngốc
-unkind,/ʌnˈkaɪnd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/unk/unkin/unkind.mp3,xấu tính
-stubborn,/ˈstʌb.ɚn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stubb/stubborn.mp3,bướng bỉnh
-conservative,/kənˈsɝː.və.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/conse/conservative.mp3,bảo thủ
-mad,/mæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mad/mad__/mad.mp3,"điên, khùng"
-boastful,/ˈboʊst.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/boa/boast/boastful.mp3,khoe khoang
-afraid,/əˈfreɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/afr/afrai/afraid.mp3,"lo sợ, sợ hãi"
-angry,/ˈæŋ.ɡri/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/ang/angry/angry.mp3,"tức giận, giận dữ"
-bored,/bɔːrd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/boa/board/board.mp3,chán nản
-confused,/kənˈfjuːzd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/confu/confused.mp3,"bối rối, lúng túng"
-disappointed,/ˌdɪs.əˈpɔɪn.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/d/dis/disap/disappointed.mp3,thất vọng
-disgusted,/dɪsˈɡʌs.tɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzc051.mp3,kinh tởm
-embarrassed,/ɪmˈber.əst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00405.mp3,"xấu hổ, ngại ngùng"
-excited,/ɪkˈsɑɪ·t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/exc/excit/excited.mp3,cảm thấy hào hứng
-guilty,/ˈɡɪl.ti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72110.mp3,cảm thấy tội lỗi
-happy,/ˈhæp.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hap/happy/happy.mp3,"vui vẻ, hạnh phúc"
-hungry,/ˈhʌŋ.ɡri/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hun/hungr/hungry.mp3,đói bụng
-lonely,/ˈloʊn.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/lon/lonel/lonely.mp3,cảm thấy cô đơn
-nervous,/ˈnɝː.vəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/n/ner/nervo/nervous.mp3,hồi hộp
-sad,/sæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sad/sad__/sad.mp3,buồn bã
-sick,/sɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sic/sic__/sic.mp3,"bệnh, ốm yếu"
-surprised,/sɚˈpraɪzd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sur/surpr/surprised.mp3,ngạc nhiên
-thirsty,/ˈθɝː.sti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thirs/thirsty.mp3,khát nước
-tired,/taɪrd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tir/tired/tired.mp3,mệt mỏi
-worried,/ˈwɝː.id/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/wor/worri/worried.mp3,lo lắng
-annoyed,/əˈnɔɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/ann/annoy/annoyed.mp3,"khó chịu, bực bội, bị làm phiền"
-grateful,/ˈɡreɪt.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grate/grateful.mp3,cảm thấy biết ơn
-uncomfortable,/ʌnˈkʌmf.tə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74697.mp3,cảm thấy không thoải mái
-wonderful,/ˈwʌn.dɚ.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/won/wonde/wonderful.mp3,cảm thấy tuyệt vời
-terrible,/ˈter.ə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/ter/terri/terrible.mp3,cảm thấy tệ hại
-unhappy,/ʌnˈhæp.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/unh/unhap/unhappy.mp3,cảm thấy không vui
-comfortable,/ˈkʌm.fɚ.t̬ə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd010.mp3,cảm thấy thoải mái
-upset,/ʌpˈset/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/ups/upset/upset.mp3,buồn bực
-foolish,/ˈfuː.lɪʃ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/foo/fooli/foolish.mp3,"dại dột, ngu ngốc"
-glad,/ɡlæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gla/glad_/glad.mp3,cảm thấy vui sướng
-interested,/ˈɪn.trɪ.stɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/int/inter/interested.mp3,cảm thấy hứng thú
-lucky,/ˈlʌk.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/luc/lucky/lucky.mp3,may mắn
-peaceful,/ˈpiːs.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peace/peaceful.mp3,"thanh thản, bình yên"
-positive,/ˈpɑː.zə.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73656.mp3,tích cực
-proud,/praʊd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pro/proud/proud.mp3,"hãnh diện, tự hào"
-relaxed,/rɪˈlækst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usl/usl30/usl30282.mp3,"thư giãn, thoải mái"
-satisfied,/ˈsæt̬.ɪs.faɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussat/ussatch006.mp3,"thỏa mãn, hài lòng"
-shocking,/ˈʃɑk·ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sho/shock/shocking.mp3,"sốc, bất ngờ"
-stressed,/strest/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo08/cdo0824usstre2358.mp3,căng thẳng
-emotional,/ɪˈmoʊ.ʃən.əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71516.mp3,xúc động
-accountant,/əˈkaʊn.t̬ənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/acc/accou/accountant.mp3,kế toán
-actor,/ˈæk.tɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/act/actor/actor.mp3,diễn viên
-actress,/ˈæk.trəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01818.mp3,diễn viên (nữ)
-artist,/ˈɑː.tɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/art/artis/artist.mp3,nghệ sỹ
-astronaut,/ˈæs.trə.nɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/ast/astro/astronaut.mp3,phi hành gia
-baker,/ˈbeɪ.kɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bak/baker/baker.mp3,thợ nướng bánh
-butcher,/ˈbʊtʃ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/but/butch/butcher.mp3,"người mổ thịt, bán thịt"
-cashier,/kæʃˈɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cas/cashi/cashier.mp3,nhân viên thu ngân
-chef,/ʃef/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chef_/chef.mp3,đầu bếp (bếp trưởng)
-comedian,/kəˈmiː.di.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/com/comed/comedian.mp3,diễn viên hài
-delivery,/dɪˈlɪv.ɚ.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75561.mp3,giao hàng
-doctor,/ˈdɑːk.tɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/doc/docto/doctor.mp3,bác sĩ
-entrepreneur,/ˌɑːn.trə.prəˈnɝː/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71586.mp3,nhà kinh doanh
-engineer,/ˌen.dʒɪˈnɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75694.mp3,kỹ sư
-office worker,/ˈɑː.fɪs ˈwɝː.kɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cbe/cbedu/cbedus06907.mp3,nhân viên văn phòng
-florist,/ˈflɔːr.ɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/flori/florist.mp3,người bán hoa
-hairdresser,/ˈherˌdres.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usg/usgyr/usgyro_029.mp3,thợ cắt tóc
-lawyer,/ˈlɔɪ.jɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/law/lawye/lawyer.mp3,luật sư
-attorney,/əˈtɝː.ni/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/att/attor/attorney.mp3,luật sư
-musician,/mjuːˈzɪʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mus/music/musician.mp3,"nhạc sĩ, nhạc công"
-pharmacist,/ˈfɑːr.mə.sɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pha/pharm/pharmacist.mp3,dược sĩ
-plumber,/ˈplʌm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/plu/plumb/plumber.mp3,thợ sửa ống nước
-politician,/ˌpɑː.ləˈtɪʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pol/polit/politician.mp3,chính trị gia
-programmer,/ˈproʊ.ɡræm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pro/progr/programmer.mp3,lập trình viên
-real estate agent,/ˈriː.əl ɪ.steɪt ˌeɪ.dʒənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01170.mp3,người môi giới bất động sản
-tailor,/ˈteɪ.lɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tai/tailo/tailor.mp3,thợ may
-taxi driver,/ˈtæk.si ˌdraɪ.vɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318ustaxi4959.mp3,tài xế xe taxi
-teacher,/ˈtiː.tʃɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tea/teach/teacher.mp3,giáo viên
-student,/ˈstuː.dənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stude/student.mp3,học sinh
-principal,/ˈprɪn.sə.pəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pri/princ/principal.mp3,hiệu trưởng
-receptionist,/rɪˈsep.ʃən.ɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rec/recep/receptionist.mp3,"nhân viên lễ tân, tiếp tân"
-singer,/ˈsɪŋ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sin/singe/singer.mp3,ca sĩ
-firefighter,/ˈfaɪrˌfaɪ.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usf/usfin/usfinal023.mp3,lính cứu hỏa
-mouse,/maʊs/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mou/mouse/mouse.mp3,con chuột
-cat,/kæt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cat/cat__/cat.mp3,con mèo
-dog,/dɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dog/dog__/dog.mp3,con chó
-kitten,/ˈkɪt̬.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kit/kitte/kitten.mp3,mèo con
-puppy,/ˈpʌp.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspun/uspunge010.mp3,chó con
-pig,/pɪɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pig/pig__/pig.mp3,"con lợn, heo"
-chicken,/ˈtʃɪk.ɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chick/chicken.mp3,con gà
-chick,/tʃɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chick/chick.mp3,gà con
-duck,/dʌk/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/duc/duck_/duck.mp3,con vịt
-goose,/ɡuːs/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/goo/goose/goose.mp3,con ngỗng
-stork,/stɔːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sta/stalk/stalk.mp3,con cò
-swan,/swɑːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/swa/swan_/swan.mp3,con thiên nga
-rabbit,/ˈræb.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rab/rabbi/rabbit.mp3,con thỏ
-cow,/kaʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cow/cow__/cow.mp3,con bò
-buffalo,/ˈbʌf.ə.loʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/buf/buffa/buffalo.mp3,con trâu
-horse,/hɔːrs/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hoa/hoars/hoarse.mp3,con ngựa
-goat,/ɡoʊt/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/goa/goat_/goat.mp3,con dê
-sheep,/ʃiːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/she/sheep/sheep.mp3,con cừu
-fish,/fɪʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fis/fish_/fish.mp3,con cá
-crab,/kræb/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cra/crab_/crab.mp3,con cua
-shrimp,/ʃrɪmp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/shr/shrim/shrimp.mp3,con tôm
-lobster,/ˈlɑːb.stɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lob/lobst/lobster.mp3,con tôm hùm
-squid,/skwɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squid/squid.mp3,con mực
-octopus,ˈɑːk.tə.pəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75152.mp3,con bạch tuộc
-shark,/ʃɑːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sha/shark/shark.mp3,cá mập
-dolphin,/ˈdɑːl.fɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71360.mp3,cá heo
-turtle,/ˈtɝː.t̬əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tur/turtl/turtle.mp3,con rùa
-monkey,/ˈmʌŋ.ki/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73071.mp3,con khỉ
-tiger,/ˈtaɪ.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tig/tiger/tiger.mp3,con hổ
-lion,/ˈlaɪ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lio/lion_/lion.mp3,con sư tử
-leopard,/ˈlep.ɚd/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/leo/leopa/leopard.mp3,con báo
-elephant,/ˈel.ə.fənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75655.mp3,con voi
-giraffe,/dʒɪˈræf/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gir/giraf/giraffe.mp3,con hươu cao cổ
-deer,/dɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dea/dear_/dear.mp3,"con hươu, nai"
-hippopotamus,/ˌhɪp.əˈpɑː.t̬ə.məs/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hip/hippo/hippopotamus.mp3,con hà mã (hippo /ˈhɪp.oʊ/)
-rhino,/ˈraɪ.noʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73986.mp3,con tê giác
-hedgehog,/ˈhedʒ.hɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ush/ushea/usheart030.mp3,con nhím
-squirrel,/ˈskwɝː.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squir/squirrel.mp3,con sóc
-otter,/ˈɑː.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75324.mp3,con rái cá
-kangaroo,/ˌkæŋ.ɡəˈruː/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kan/kanga/kangaroo.mp3,con chuột túi
-fox,/fɑːks/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fox/fox__/fox.mp3,con cáo
-wolf,/wʊlf/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wol/wolf_/wolf.mp3,con sói
-bear,/ber/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bar/bare_/bare.mp3,con gấu
-panda,/ˈpæn.də/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pan/panda/panda.mp3,con gấu trúc
-ostrich,/ˈɑː.strɪtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75321.mp3,con đà điểu
-bee,/biː/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/b__/b____/b.mp3,con ong
-butterfly,/ˈbʌt̬.ɚ.flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/but/butte/butterfly.mp3,con bướm
-worm,/wɝːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wor/worm_/worm.mp3,con sâu
-earthworm,/ˈɝːθ.wɝːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/use/usear/useardr026.mp3,con giun đất
-eagle,/ˈiː.ɡəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eag/eagle/eagle.mp3,con đại bàng
-owl,/aʊl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75454.mp3,con chim cú
-parrot,/ˈper.ət/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/par/parro/parrot.mp3,con vẹt
-peacock,/ˈpiː.kɑːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peaco/peacock.mp3,con công
-dove,/dʌv/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dov/dove_/dove_01_00.mp3,chim bồ câu
-flamingo,/fləˈmɪŋ.ɡoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fla/flami/flamingo.mp3,chim hồng hạc
-crow,/kroʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cro/crow_/crow.mp3,con quạ
-penguin,/ˈpeŋ.ɡwɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pen/pengu/penguin.mp3,chim cánh cụt
-sparrow,/ˈsper.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74328.mp3,chim sẻ
-zebra,/ˈziː.brə/,noun,https://dictionary.cambridge.org/media/english/us_pron/z/zeb/zebra/zebra.mp3,con ngựa vằn
-dragonfly,/ˈdræɡ.ən.flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dra/drago/dragonfly.mp3,con chuồn chuồn
-ant,/ænt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/ant/ant__/ant.mp3,con kiến
-fly,/flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fly/fly__/fly.mp3,con ruồi
-apple,/ˈæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/app/apple/apple.mp3,trái táo
-ambarella,/’æmbə’rælə/,noun,,trái cóc
-apricot,/ˈeɪ.prɪ.kɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70291.mp3,trái mơ
-avocado,/ˌɑː.vəˈkɑː.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00050.mp3,trái bơ
-banana,/bəˈnæn.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/ban/banan/banana.mp3,trái chuối
-strawberry,/ˈstrɑːˌber.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/str/straw/strawberry.mp3,trái dâu tây
-cherry,/ˈtʃer.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/cherr/cherry.mp3,trái anh đào
-sugar cane,/ˈʃʊɡ.ɚ ˌkeɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo01/cdo0123uscane0394.mp3,cây mía
-coconut,/ˈkoʊ.kə.nʌt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/coc/cocon/coconut.mp3,trái dừa
-custard apple,/ˈkʌs.tɚd ˌæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo11/cdo1121uscust1264.mp3,trái mãng cầu
-dragon fruit,/ˈdræɡ.ən ˌfruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usdrag1506.mp3,trái thanh long (pitaya)
-pitaya,/pɪˈtaɪ.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uspita3712.mp3,trái thanh long (dragon fruit)
-durian,/ˈdʊr.i.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus09/eus09138.mp3,trái sầu riêng
-fig,/fɪɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fig/fig__/fig.mp3,trái sung
-grape,/ɡreɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grape/grape.mp3,trái nho
-grapefruit,/ˈɡreɪp.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grape/grapefruit.mp3,trái bưởi (lai với cam)
-pomelo,/ˈpɑː.mə.loʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uspome3776.mp3,trái bưởi (bưởi thường Việt Nam)
-guava,/ˈɡwɑː.və/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gua/guava/guava.mp3,trái ổi
-jackfruit,/ˈdʒæk.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0319usjack0993.mp3,trái mít
-kiwi,/ˈkiː.wiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usk/uskil/uskillj030.mp3,trái kiwi
-kumquat,/ˈkʌm.kwɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usk/uskoi/uskoing018.mp3,trái quất (trái tắc)
-lemon,/ˈlem.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lem/lemon/lemon.mp3,quả chanh vàng
-lime,/laɪm/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lim/lime_/lime.mp3,quả chanh xanh
-longan,/ˈlɑːŋ.ɡən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uslong2787.mp3,trái nhãn
-lychee,/ˈliː.tʃiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usl/uslux/usluxur005.mp3,quả vải (litchi)
-mandarin,/ˈmæn.dɚ.ɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usm/usmam/usmammo008.mp3,trái quýt (tangerine)
-tangerine,/ˈtæn.dʒə.riːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tan/tange/tangerine.mp3,trái quýt (mandarin)
-mango,/ˈmæŋ.ɡoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/man/mango/mango.mp3,quả xoài
-mangosteen,/ˈmæŋ.ɡə.stiːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usmang2876.mp3,trái măng cụt
-watermelon,/ˈwɑː.t̬ɚˌmel.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wat/water/watermelon.mp3,trái dưa hấu
-orange,/ˈɔːr.ɪndʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75268.mp3,trái cam
-papaya,/pəˈpaɪ.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73412.mp3,trái đu đủ (pawpaw)
-pawpaw,/ˈpɑː.pɑː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspat/uspatho019.mp3,trái đu đủ (papaya)
-passion fruit,/ˈpæʃ.ən ˌfruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa34/usa34123.mp3,trái chanh dây
-peach,/piːtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peach/peach.mp3,trái đào
-pear,/per/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pai/pair_/pair.mp3,trái lê
-persimmon,/pɚˈsɪm.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75865.mp3,trái hồng
-pineapple,/ˈpaɪnˌæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pin/pinea/pineapple.mp3,trái dứa
-plum,/plʌm/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/plu/plum_/plum.mp3,trái mận
-pomegranate,/ˈpɑː.məˌɡræn.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pom/pomeg/pomegranate.mp3,trái lựu
-rambutan,/ræmˈbuː.tən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usramb4006.mp3,trái chôm chôm
-star apple,/stɑːr ˈæp.əl/,noun,,trái vú sữa
-starfruit,/ˈstɑːr.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa31/usa31451.mp3,trái khế
-tamarind,/ˈtæm.ɚ.ɪnd/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustak/ustakeo016.mp3,trái me
-bean,/biːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bea/bean_/bean.mp3,hạt đậu
-cabbage,/ˈkæb.ɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cab/cabba/cabbage.mp3,bắp cải
-carrot,/ˈker.ət/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/car/carat/carat.mp3,củ cà rốt
-corn,/kɔːrn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cor/corn_/corn.mp3,"ngô, bắp"
-cucumber,/ˈkjuː.kʌm.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cuc/cucum/cucumber.mp3,dưa leo (dưa chuột)
-tomato,/təˈmeɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usb03/usb03206.mp3,quả cà chua
-garlic,/ˈɡɑːr.lɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gar/garli/garlic.mp3,củ tỏi
-onion,/ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75215.mp3,củ hành
-spring onion,/ˌsprɪŋ ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us2175.mp3,"hành lá (US green onion, scallion)"
-green onion,/ˌɡriːn ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33139.mp3,hành lá (scallion)
-scallion,/ˈskæl.i.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sca/scall/scallion.mp3,hành lá (green onion)
-ginger,/ˈdʒɪn.dʒɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gin/ginge/ginger.mp3,củ gừng
-turmeric,/ˈtɜː.mər.ɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustur/usturk_007.mp3,củ nghệ
-potato,/pəˈteɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pot/potat/potato.mp3,củ khoai tây
-sweet potato,/ˌswiːt pəˈteɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01428.mp3,củ khoai lang
-pumpkin,/ˈpʌmp.kɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pum/pumpk/pumpkin.mp3,"bí ngô, bí đỏ"
-beet,/biːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bea/beat_/beat.mp3,"củ cải đường, củ dền"
-cauliflower,/ˈkɑː.ləˌflaʊ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cau/cauli/cauliflower.mp3,súp lơ (bông cải trắng)
-broccoli,/ˈbrɑː.kəl.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bro/brocc/broccoli.mp3,bông cải xanh
-eggplant,/ˈeɡ.plænt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/egg/eggpl/eggplant.mp3,trái cà tím
-celery,/ˈsel.ər.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cel/celer/celery.mp3,(rau) cần tây
-leek,/liːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lea/leak_/leak.mp3,tỏi tây
-lettuce,/ˈlet.ɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/let/lettu/lettuce.mp3,"rau diếp, xà lách"
-mushroom,/ˈmʌʃ.rʊm/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mus/mushr/mushroom.mp3,nấm
-chili,/ˈtʃɪl.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chill/chilly.mp3,ớt cay
-bell pepper,/ˈbel ˌpep.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa30/usa30163.mp3,ớt chuông
-herb,/hɜːb/ - /ɝːb/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/her/herb_/herb.mp3,rau thơm (nói chung)
-peppercorn,/ˈpep.ɚ.kɔːrn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspen/uspenit016.mp3,hạt tiêu
-pepper,/ˈpep.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73488.mp3,hạt tiêu xay nhuyễn
-soup,/suːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sou/soup_/soup.mp3,"món súp, món canh"
-salad,/ˈsæl.əd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sal/salad/salad.mp3,rau trộn
-bread,/bred/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bre/bread/bread.mp3,bánh mì
-sausage,/ˈsɑː.sɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sau/sausa/sausage.mp3,xúc xích
-hot dog,/ˈhɑːt ˌdɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00684.mp3,bánh mỳ kẹp xúc xích
-bacon,/ˈbeɪ.kən/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bac/bacon/bacon.mp3,thịt xông khói
-egg,/eɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/egg/egg__/egg.mp3,trứng
-pork,/pɔːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/por/pork_/pork.mp3,thịt lợn
-beef,/biːf/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bee/beef_/beef.mp3,thịt bò
-lamb,/læm/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamb_/lamb.mp3,thịt cừu
-rib,/rɪb/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rib/rib__/rib.mp3,sườn
-seafood,/ˈsiː.fuːd/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/usscr/usscrum024.mp3,hải sản
-salmon,/ˈsæm.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sal/salmo/salmon.mp3,cá hồi
-tuna,/ˈtuː.nə/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tun/tuna_/tuna.mp3,cá ngừ
-pizza,/ˈpiːt.sə/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/piz/pizza/pizza.mp3,bánh pizza
-beefsteak,/ˈbiːf.steɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo06/cdo0623usbeef0191.mp3,bít tết
-French fries,/ˈfrentʃ ˈfrɑɪz/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdomi/cdomiscusfren0029.mp3,khoai tây chiên (fries)
-hamburger,/ˈhæmˌbɝː.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/ham/hambu/hamburger.mp3,bánh hamburger
-sandwich,/ˈsæn.wɪtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/san/sandw/sandwich.mp3,bánh mỳ kẹp
-pancake,/ˈpæn.keɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pan/panca/pancake.mp3,"bánh kếp, bánh xèo"
-noodle,/ˈnuː.dəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noo/noodl/noodle.mp3,"mỳ, bún"
-pasta,/ˈpæs.tə/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pas/pasta/pasta.mp3,mỳ Ý
-cheese,/tʃiːz/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chees/cheese.mp3,pho mát
-hot pot,/ˈhɒt.pɒt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ush/ushos/ushoste009.mp3,lẩu
-porridge,/ˈpɔːr.ɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/por/porri/porridge.mp3,cháo
-water,/ˈwɑː.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld2s094.mp3,nước
-lemonade,/ˌlem.əˈneɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72759.mp3,nước chanh
-juice,/dʒuːs/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jui/juice/juice.mp3,nước ép hoa quả
-smoothie,/ˈsmuː.ði/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussmo/ussmoke005.mp3,sinh tố
-coffee,/ˈkɑː.fi/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cof/coffe/coffee.mp3,cà phê
-tea,/tiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/t__/t____/t.mp3,trà
-milk,/mɪlk/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mil/milk_/milk.mp3,sữa
-hot chocolate,/ˌhɑːt ˈtʃɑːk.lət/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33345.mp3,sô cô la nóng
-beer,/bɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bee/beer_/beer.mp3,bia
-wine,/waɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/win/wine_/wine.mp3,rượu
-yogurt,/ˈjoʊ.ɡɚt/,noun,https://dictionary.cambridge.org/media/english/us_pron/y/yog/yogur/yogurt.mp3,sữa chua
-ice cream,/ˈaɪs ˌkriːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usicec2403.mp3,kem
-second,/ˈsek.ənd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sec/secon/second.mp3,giây
-minute,/ˈmɪn.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73026.mp3,phút
-hour,/aʊr/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hou/hour_/hour.mp3,giờ
-week,/wiːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wea/weak_/weak.mp3,tuần
-decade,/ˈdek.eɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dec/decad/decade.mp3,thập kỷ (10 năm)
-century,/ˈsen.tʃər.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cen/centu/century.mp3,thế kỷ (100 năm)
-weekend,/ˈwiːk.end/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usw/uswea/usweare018.mp3,cuối tuần
-month,/mʌnθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mon/month/month.mp3,tháng
-year,/jɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/y/yea/year_/year.mp3,năm
-day,/deɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/day/day__/day.mp3,ngày
-millennium,/mɪˈlen.i.əm/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mil/mille/millennium.mp3,thiên niên kỷ (1000 năm)
-morning,/ˈmɔːr.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mor/morni/morning.mp3,buổi sáng
-noon,/nuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noo/noon_/noon.mp3,buổi trưa
-afternoon,/ˌæf.tɚˈnuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aft/after/afternoon.mp3,buổi chiều
-evening,/ˈiːv.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eve/eveni/evening.mp3,buổi tối
-midnight,/ˈmɪd.naɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mid/midni/midnight.mp3,nửa đêm
-dusk,/dʌsk/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dus/dusk_/dusk.mp3,hoàng hôn (mặt trời đã lặn)
-sunset,/ˈsʌn.set/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussun/ussunbl020.mp3,mặt trời lặn
-dawn,/dɑːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/daw/dawn_/dawn.mp3,bình minh (mặt trời chưa mọc)
-sunrise,/ˈsʌn.raɪz/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussun/ussunbl017.mp3,mặt trời mọc
-always,/ˈɑːl.weɪz/,adverb,https://dictionary.cambridge.org/media/english/us_pron/a/alw/alway/always.mp3,luôn luôn (100%)
-often,/ˈɑːf.ən/ - /ˈɑːf.tən/,adverb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75181.mp3,thường (70%)
-normally,/ˈnɔːr.mə.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd081.mp3,"thông thường, thường lệ (80%)"
-usually,/’ju:ʒəli/,adverb,https://dictionary.cambridge.org/media/english/us_pron/u/usu/usual/usually.mp3,thường xuyên (90%)
-sometimes,/ˈsʌm.taɪmz/,adverb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74306.mp3,thỉnh thoảng (50%)
-occasionally,/əˈkeɪ.ʒən.əl.i/,adverb,https://dictionary.cambridge.org/media/english/us_pron/o/occ/occas/occasionally.mp3,"thỉnh thoảng, tuỳ lúc (30%)"
-rarely,/ˈrer.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/r/rar/rarel/rarely.mp3,"hiếm khi, ít khi, gần như không bao giờ (5%)"
-never,/ˈnev.ɚ/,adverb,https://dictionary.cambridge.org/media/english/us_pron/n/nev/never/never.mp3,không bao giờ (0%)
-frequently,/ˈfriː.kwənt.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/f/fre/frequ/frequently.mp3,thường (70%)
-generally,/ˈdʒen.ə r.əl.i/,adverb,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gener/generally.mp3,"thông thường, thường lệ (80%)"
+charming,/ˈtʃɑr·mɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cha/charm/charming.mp3,,"quyến rũ, thu hút"
+cute,/kjuːt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cut/cute_/cute.mp3,,"đáng yêu, dễ thương"
+fat,/fæt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fat/fat__/fat.mp3,,"béo, thừa cân"
+feature,/ˈfiː.tʃɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fea/featu/feature.mp3,,"đặc điểm, nét nổi bật"
+fit,/fɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fit/fit__/fit.mp3,,"cân đối, gọn gàng"
+good-looking,/ˌɡʊdˈlʊk.ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00584.mp3,,"ưa nhìn, sáng sủa"
+handsome,/ˈhæn.səm/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/han/hands/handsome.mp3,,đẹp trai
+height,/haɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hei/heigh/height.mp3,,chiều cao
+lovely,/ˈlʌv.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/lov/lovel/lovely.mp3,,đáng yêu
+muscular,/ˈmʌs.kjə.lɚ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mus/muscu/muscular.mp3,,"cơ bắp, lực lưỡng"
+pretty,/ˈprɪt̬.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73704.mp3,,xinh xắn
+short,/ʃɔːrt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sho/short/short.mp3,,thấp
+tall,/tɑːl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tal/tall_/tall.mp3,,cao
+thin,/θɪn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thin_/thin.mp3,,"gầy, ốm, mỏng"
+ugly,/ˈʌɡ.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/ugl/ugly_/ugly.mp3,,xấu xí
+weight,/weɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wai/wait_/wait.mp3,,cân nặng
+active,/ˈæk.tɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/act/activ/active.mp3,,năng động
+brave,/breɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brave/brave.mp3,,"can đảm, dũng cảm"
+careful,/ˈker.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/car/caref/careful.mp3,,cẩn thận
+cautious,/ˈkɑː.ʃəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cau/cauti/cautious.mp3,,"cẩn trọng, dè dặt"
+cheerful,/ˈtʃɪr.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/che/cheer/cheerful.mp3,,vui vẻ
+clever,/ˈklev.ɚ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cle/cleve/clever.mp3,,"lanh lợi, khéo léo"
+confident,/ˈkɑːn.fə.dənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/confi/confident.mp3,,tự tin
+creative,/kriˈeɪ.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75512.mp3,,sáng tạo
+easy-going,/ˌiː.ziˈɡoʊ.ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00394.mp3,,dễ gần
+enthusiastic,/ɪnˌθuː.ziˈæs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71573.mp3,,"nhiệt tình, hăng hái"
+excited,/ɪkˈsaɪ.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/exc/excit/excited.mp3,,"thú vị, hào hứng"
+friendly,/ˈfrend.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fri/frien/friendly.mp3,,thân thiện
+funny,/ˈfʌn.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fun/funny/funny.mp3,,vui nhộn
+hardworking,/ˈhɑrdˈwɜr·kɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/har/hardw/hardworking.mp3,,chăm chỉ
+honest,/ˈɑː.nɪst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hon/hones/honest.mp3,,trung thực
+humorous,/ˈhjuː.mə.rəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hum/humor/humorous.mp3,,hài hước
+independent,/ˌɪn.dɪˈpen.dənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/ind/indep/independent.mp3,,độc lập
+intelligent,/ɪnˈtel.ə.dʒənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/int/intel/intelligent.mp3,,thông minh
+kind,/kaɪnd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/k/kin/kind_/kind.mp3,,tốt bụng
+observant,/əbˈzɝː.vənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75117.mp3,,tinh ý
+open-minded,/ˌoʊ.pənˈmaɪn.dɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00997.mp3,,cởi mở
+optimistic,/ˌɑːp.təˈmɪs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75258.mp3,,lạc quan
+patient,/ˈpeɪ.ʃənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pat/patie/patient.mp3,,kiên nhẫn
+polite,/pəˈlaɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pol/polit/polite.mp3,,lịch sự
+sociable,/ˈsoʊ.ʃə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/soc/socia/sociable.mp3,,hòa đồng
+soft,/sɑːft/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sof/soft_/soft.mp3,,dịu dàng
+talented,/ˈtæl.ən.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tal/talen/talented.mp3,,tài năng
+talkative,/ˈtɑː.kə.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74476.mp3,,hoạt ngôn
+understanding,/ˌʌn.dɚˈstæn.dɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/und/under/understanding.mp3,,thấu hiểu
+erudite,/ˈer.jə.daɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eru/erudi/erudite.mp3,,uyên bác
+nice,/naɪs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/n/nic/nice_/nice.mp3,,"tốt bụng, dễ mến"
+generous,/ˈdʒen.ər.əs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gener/generous.mp3,,hào phóng
+serious,/ˈsɪr.i.əs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/ser/serio/serious.mp3,,nghiêm túc
+faithful,/ˈfeɪθ.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fai/faith/faithful.mp3,,trung thành
+gentle,/ˈdʒen.t̬əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gentl/gentle.mp3,,"dịu dàng, lịch thiệp"
+aggressive,/əˈɡres.ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/agg/aggre/aggressive.mp3,,hung hăng
+arrogant,/ˈer.ə.ɡənt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/arr/arrog/arrogant.mp3,,kiêu ngạo
+bad-tempered,/ˌbædˈtemp.ɚd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cus/cus00/cus00138.mp3,,nóng tính
+boring,/ˈbɔː.rɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bor/borin/boring.mp3,,buồn chán
+careless,/ˈker.ləs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/car/carel/careless.mp3,,bất cẩn
+cruel,/ˈkruː.əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cru/cruel/cruel.mp3,,độc ác
+haughty,/ˈhɑː.t̬i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72171.mp3,,kiêu căng
+lazy,/ˈleɪ.zi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/laz/lazy_/lazy.mp3,,lười biếng
+mean,/miːn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mea/mean_/mean.mp3,,keo kiệt
+pessimistic,/ˌpes.əˈmɪs.tɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pes/pessi/pessimistic.mp3,,bi quan
+reckless,/ˈrek.ləs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/r/rec/reckl/reckless.mp3,,"hấp tấp, liều lĩnh"
+rude,/ruːd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/r/rud/rude_/rude.mp3,,thô lỗ
+selfish,/ˈsel.fɪʃ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sel/selfi/selfish.mp3,,ích kỷ
+shy,/ʃaɪ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/shy/shy__/shy.mp3,,"ngại ngùng, nhút nhát"
+strict,/strɪkt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/str/stric/strict.mp3,,nghiêm khắc
+stupid,/ˈstuː.pɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stupi/stupid.mp3,,ngu ngốc
+unkind,/ʌnˈkaɪnd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/unk/unkin/unkind.mp3,,xấu tính
+stubborn,/ˈstʌb.ɚn/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stubb/stubborn.mp3,,bướng bỉnh
+conservative,/kənˈsɝː.və.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/conse/conservative.mp3,,bảo thủ
+mad,/mæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mad/mad__/mad.mp3,,"điên, khùng"
+boastful,/ˈboʊst.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/boa/boast/boastful.mp3,,khoe khoang
+afraid,/əˈfreɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/afr/afrai/afraid.mp3,,"lo sợ, sợ hãi"
+angry,/ˈæŋ.ɡri/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/ang/angry/angry.mp3,,"tức giận, giận dữ"
+bored,/bɔːrd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/boa/board/board.mp3,,chán nản
+confused,/kənˈfjuːzd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/con/confu/confused.mp3,,"bối rối, lúng túng"
+disappointed,/ˌdɪs.əˈpɔɪn.t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/d/dis/disap/disappointed.mp3,,thất vọng
+disgusted,/dɪsˈɡʌs.tɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzc051.mp3,,kinh tởm
+embarrassed,/ɪmˈber.əst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00405.mp3,,"xấu hổ, ngại ngùng"
+excited,/ɪkˈsɑɪ·t̬ɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/exc/excit/excited.mp3,,cảm thấy hào hứng
+guilty,/ˈɡɪl.ti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72110.mp3,,cảm thấy tội lỗi
+happy,/ˈhæp.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hap/happy/happy.mp3,,"vui vẻ, hạnh phúc"
+hungry,/ˈhʌŋ.ɡri/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hun/hungr/hungry.mp3,,đói bụng
+lonely,/ˈloʊn.li/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/lon/lonel/lonely.mp3,,cảm thấy cô đơn
+nervous,/ˈnɝː.vəs/,adjective,https://dictionary.cambridge.org/media/english/us_pron/n/ner/nervo/nervous.mp3,,hồi hộp
+sad,/sæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sad/sad__/sad.mp3,,buồn bã
+sick,/sɪk/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sic/sic__/sic.mp3,,"bệnh, ốm yếu"
+surprised,/sɚˈpraɪzd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sur/surpr/surprised.mp3,,ngạc nhiên
+thirsty,/ˈθɝː.sti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/thi/thirs/thirsty.mp3,,khát nước
+tired,/taɪrd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/tir/tired/tired.mp3,,mệt mỏi
+worried,/ˈwɝː.id/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/wor/worri/worried.mp3,,lo lắng
+annoyed,/əˈnɔɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/a/ann/annoy/annoyed.mp3,,"khó chịu, bực bội, bị làm phiền"
+grateful,/ˈɡreɪt.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grate/grateful.mp3,,cảm thấy biết ơn
+uncomfortable,/ʌnˈkʌmf.tə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74697.mp3,,cảm thấy không thoải mái
+wonderful,/ˈwʌn.dɚ.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/won/wonde/wonderful.mp3,,cảm thấy tuyệt vời
+terrible,/ˈter.ə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/t/ter/terri/terrible.mp3,,cảm thấy tệ hại
+unhappy,/ʌnˈhæp.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/unh/unhap/unhappy.mp3,,cảm thấy không vui
+comfortable,/ˈkʌm.fɚ.t̬ə.bəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd010.mp3,,cảm thấy thoải mái
+upset,/ʌpˈset/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/ups/upset/upset.mp3,,buồn bực
+foolish,/ˈfuː.lɪʃ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/foo/fooli/foolish.mp3,,"dại dột, ngu ngốc"
+glad,/ɡlæd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/g/gla/glad_/glad.mp3,,cảm thấy vui sướng
+interested,/ˈɪn.trɪ.stɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/i/int/inter/interested.mp3,,cảm thấy hứng thú
+lucky,/ˈlʌk.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/l/luc/lucky/lucky.mp3,,may mắn
+peaceful,/ˈpiːs.fəl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peace/peaceful.mp3,,"thanh thản, bình yên"
+positive,/ˈpɑː.zə.t̬ɪv/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73656.mp3,,tích cực
+proud,/praʊd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/p/pro/proud/proud.mp3,,"hãnh diện, tự hào"
+relaxed,/rɪˈlækst/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/usl/usl30/usl30282.mp3,,"thư giãn, thoải mái"
+satisfied,/ˈsæt̬.ɪs.faɪd/,adjective,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussat/ussatch006.mp3,,"thỏa mãn, hài lòng"
+shocking,/ˈʃɑk·ɪŋ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sho/shock/shocking.mp3,,"sốc, bất ngờ"
+stressed,/strest/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo08/cdo0824usstre2358.mp3,,căng thẳng
+emotional,/ɪˈmoʊ.ʃən.əl/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71516.mp3,,xúc động
+accountant,/əˈkaʊn.t̬ənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/acc/accou/accountant.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707210/accountant_qiqk9b.jpg,kế toán
+actor,/ˈæk.tɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/act/actor/actor.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707210/actor_iceksa.jpg,diễn viên
+actress,/ˈæk.trəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01818.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707211/actress_qx3her.jpg,diễn viên (nữ)
+artist,/ˈɑː.tɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/art/artis/artist.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707211/artist_h2kbjq.jpg,nghệ sỹ
+astronaut,/ˈæs.trə.nɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/ast/astro/astronaut.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707212/astronaut_q9dyfm.jpg,phi hành gia
+baker,/ˈbeɪ.kɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bak/baker/baker.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707212/baker_r7wipj.jpg,thợ nướng bánh
+butcher,/ˈbʊtʃ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/but/butch/butcher.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707213/butcher_duzutp.jpg,"người mổ thịt, bán thịt"
+cashier,/kæʃˈɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cas/cashi/cashier.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707213/cashier_xdhxle.jpg,nhân viên thu ngân
+chef,/ʃef/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chef_/chef.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707214/chef_zagkb5.jpg,đầu bếp (bếp trưởng)
+comedian,/kəˈmiː.di.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/com/comed/comedian.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707214/comedian_fytt0y.jpg,diễn viên hài
+delivery,/dɪˈlɪv.ɚ.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75561.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707214/delivery_fpwtjy.jpg,giao hàng
+doctor,/ˈdɑːk.tɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/doc/docto/doctor.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707215/doctor_tzdbn2.jpg,bác sĩ
+entrepreneur,/ˌɑːn.trə.prəˈnɝː/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71586.mp3,,nhà kinh doanh
+engineer,/ˌen.dʒɪˈnɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75694.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707215/engineer_gvegwc.jpg,kỹ sư
+office worker,/ˈɑː.fɪs ˈwɝː.kɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cbe/cbedu/cbedus06907.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707218/office_worker_z5gbhl.jpg,nhân viên văn phòng
+florist,/ˈflɔːr.ɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/flori/florist.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707216/florist_wbmbin.jpg,người bán hoa
+hairdresser,/ˈherˌdres.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usg/usgyr/usgyro_029.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707217/hairdresser_pj4khi.jpg,thợ cắt tóc
+lawyer,/ˈlɔɪ.jɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/law/lawye/lawyer.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707217/lawyer_fk3hdj.jpg,luật sư
+attorney,/əˈtɝː.ni/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/att/attor/attorney.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707217/lawyer_fk3hdj.jpg,luật sư
+musician,/mjuːˈzɪʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mus/music/musician.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707217/musician_y1thfq.jpg,"nhạc sĩ, nhạc công"
+pharmacist,/ˈfɑːr.mə.sɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pha/pharm/pharmacist.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707218/pharmacist_bzldot.jpg,dược sĩ
+plumber,/ˈplʌm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/plu/plumb/plumber.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707219/plumber_z3fokr.jpg,thợ sửa ống nước
+politician,/ˌpɑː.ləˈtɪʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pol/polit/politician.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707219/politician_bel1pb.jpg,chính trị gia
+programmer,/ˈproʊ.ɡræm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pro/progr/programmer.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707220/programmer_zllbvt.jpg,lập trình viên
+real estate agent,/ˈriː.əl ɪ.steɪt ˌeɪ.dʒənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01170.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707220/real_estate_agent_sirfn4.jpg,người môi giới bất động sản
+tailor,/ˈteɪ.lɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tai/tailo/tailor.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707222/tailor_dt6ssx.jpg,thợ may
+taxi driver,/ˈtæk.si ˌdraɪ.vɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318ustaxi4959.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707222/taxi_driver_rgdspv.jpg,tài xế xe taxi
+teacher,/ˈtiː.tʃɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tea/teach/teacher.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707223/teacher_tbxmgg.jpg,giáo viên
+student,/ˈstuː.dənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/stu/stude/student.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707221/student_cvkrv2.jpg,học sinh
+principal,/ˈprɪn.sə.pəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pri/princ/principal.mp3,,hiệu trưởng
+receptionist,/rɪˈsep.ʃən.ɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rec/recep/receptionist.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707220/receptionist_l2uvy5.jpg,"nhân viên lễ tân, tiếp tân"
+singer,/ˈsɪŋ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sin/singe/singer.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707221/singer_rzhrik.jpg,ca sĩ
+firefighter,/ˈfaɪrˌfaɪ.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usf/usfin/usfinal023.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707216/firefighter_pbrzpo.jpg,lính cứu hỏa
+mouse,/maʊs/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mou/mouse/mouse.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707181/mouse_an2jb0.jpg,con chuột
+cat,/kæt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cat/cat__/cat.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707173/cat_rm8gnj.jpg,con mèo
+dog,/dɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dog/dog__/dog.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707175/dog_tzzksi.jpg,con chó
+kitten,/ˈkɪt̬.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kit/kitte/kitten.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707180/kitten_hbduno.jpg,mèo con
+puppy,/ˈpʌp.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspun/uspunge010.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707183/puppy_m4b4x7.jpg,chó con
+pig,/pɪɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pig/pig__/pig.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707183/pig_cnacue.jpg,"con lợn, heo"
+chicken,/ˈtʃɪk.ɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chick/chicken.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707174/chicken_i0uusv.jpg,con gà
+chick,/tʃɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chick/chick.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707174/chick_jld9ir.jpg,gà con
+duck,/dʌk/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/duc/duck_/duck.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707176/duck_awq1tg.jpg,con vịt
+goose,/ɡuːs/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/goo/goose/goose.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707178/goose_ob0chr.jpg,con ngỗng
+stork,/stɔːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sta/stalk/stalk.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707186/stork_dtsr3h.jpg,con cò
+swan,/swɑːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/swa/swan_/swan.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707186/swan_ngwcl5.jpg,con thiên nga
+rabbit,/ˈræb.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rab/rabbi/rabbit.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707184/rabbit_x0ro6s.jpg,con thỏ
+cow,/kaʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cow/cow__/cow.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707174/cow_c7ihlz.jpg,con bò
+buffalo,/ˈbʌf.ə.loʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/buf/buffa/buffalo.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707173/buffalo_sqh1ai.jpg,con trâu
+horse,/hɔːrs/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hoa/hoars/hoarse.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707179/horse_hgwgh9.jpg,con ngựa
+goat,/ɡoʊt/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/goa/goat_/goat.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707178/goat_xqqwju.jpg,con dê
+sheep,/ʃiːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/she/sheep/sheep.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707184/sheep_yfkl5e.jpg,con cừu
+fish,/fɪʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fis/fish_/fish.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707177/fish_xsfdrr.jpg,con cá
+crab,/kræb/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cra/crab_/crab.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707174/crab_ydo4ff.jpg,con cua
+shrimp,/ʃrɪmp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/shr/shrim/shrimp.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707185/shrimp_ivm37x.jpg,con tôm
+lobster,/ˈlɑːb.stɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lob/lobst/lobster.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707182/lobster_cndpu0.jpg,con tôm hùm
+squid,/skwɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squid/squid.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707185/squid_rw0lcq.jpg,con mực
+octopus,ˈɑːk.tə.pəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75152.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707181/octopus_jr2jsl.jpg,con bạch tuộc
+shark,/ʃɑːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sha/shark/shark.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707184/shark_w9kyz1.jpg,cá mập
+dolphin,/ˈdɑːl.fɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71360.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707175/dolphin_pwci7c.jpg,cá heo
+turtle,/ˈtɝː.t̬əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tur/turtl/turtle.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707186/turtle_ybvks7.jpg,con rùa
+monkey,/ˈmʌŋ.ki/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73071.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707181/monkey_e3lrfz.jpg,con khỉ
+tiger,/ˈtaɪ.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tig/tiger/tiger.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707186/tiger_wvh216.jpg,con hổ
+lion,/ˈlaɪ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lio/lion_/lion.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707180/lion_uo3ino.jpg,con sư tử
+leopard,/ˈlep.ɚd/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/leo/leopa/leopard.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707180/leopard_z0mw7u.jpg,con báo
+elephant,/ˈel.ə.fənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75655.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707177/elephant_ghaqjo.jpg,con voi
+giraffe,/dʒɪˈræf/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gir/giraf/giraffe.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707178/giraffe_hot7zn.jpg,con hươu cao cổ
+deer,/dɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dea/dear_/dear.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707175/deer_kgt8fz.jpg,"con hươu, nai"
+hippopotamus,/ˌhɪp.əˈpɑː.t̬ə.məs/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hip/hippo/hippopotamus.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707179/hippopotamus_onesve.jpg,con hà mã (hippo /ˈhɪp.oʊ/)
+rhino,/ˈraɪ.noʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73986.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707184/rhino_vqinde.jpg,con tê giác
+hedgehog,/ˈhedʒ.hɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ush/ushea/usheart030.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707179/hedgehog_n7acwj.jpg,con nhím
+squirrel,/ˈskwɝː.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squir/squirrel.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707186/squirrel_grzzaq.jpg,con sóc
+otter,/ˈɑː.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75324.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707182/otter_llzglk.jpg,con rái cá
+kangaroo,/ˌkæŋ.ɡəˈruː/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kan/kanga/kangaroo.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707180/kangaroo_en2oqr.jpg,con chuột túi
+fox,/fɑːks/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fox/fox__/fox.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707178/fox_r2qwne.jpg,con cáo
+wolf,/wʊlf/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wol/wolf_/wolf.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707187/wolf_dfcwcg.jpg,con sói
+bear,/ber/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bar/bare_/bare.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707172/bear_tl1r9b.jpg,con gấu
+panda,/ˈpæn.də/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pan/panda/panda.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707182/panda_t72jsh.jpg,con gấu trúc
+ostrich,/ˈɑː.strɪtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75321.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707181/ostrich_xfjgoe.jpg,con đà điểu
+bee,/biː/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/b__/b____/b.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707173/bee_dd42py.jpg,con ong
+butterfly,/ˈbʌt̬.ɚ.flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/but/butte/butterfly.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707173/butterfly_cikdrq.jpg,con bướm
+worm,/wɝːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wor/worm_/worm.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707187/worm_htq9cu.jpg,con sâu
+earthworm,/ˈɝːθ.wɝːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/use/usear/useardr026.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707187/worm_htq9cu.jpg,con giun đất
+eagle,/ˈiː.ɡəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eag/eagle/eagle.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707176/eagle_ryaqy9.jpg,con đại bàng
+owl,/aʊl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75454.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707182/owl_y7boih.jpg,con chim cú
+parrot,/ˈper.ət/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/par/parro/parrot.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707183/parrot_kbrhu5.jpg,con vẹt
+peacock,/ˈpiː.kɑːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peaco/peacock.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707183/peacock_lmpoct.jpg,con công
+dove,/dʌv/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dov/dove_/dove_01_00.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707176/dove_ywjp40.jpg,chim bồ câu
+flamingo,/fləˈmɪŋ.ɡoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fla/flami/flamingo.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707177/flamingo_jvcm96.jpg,chim hồng hạc
+crow,/kroʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cro/crow_/crow.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707175/crow_q74ybn.jpg,con quạ
+penguin,/ˈpeŋ.ɡwɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pen/pengu/penguin.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707183/penguin_as948n.jpg,chim cánh cụt
+sparrow,/ˈsper.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74328.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707185/sparrow_ura5nr.jpg,chim sẻ
+zebra,/ˈziː.brə/,noun,https://dictionary.cambridge.org/media/english/us_pron/z/zeb/zebra/zebra.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707187/zebra_yls4ax.jpg,con ngựa vằn
+dragonfly,/ˈdræɡ.ən.flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dra/drago/dragonfly.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707176/dragonfly_ixgafy.jpg,con chuồn chuồn
+ant,/ænt/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/ant/ant__/ant.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707172/ant_w2jezr.jpg,con kiến
+fly,/flaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fly/fly__/fly.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707177/fly_hz4c8l.jpg,con ruồi
+apple,/ˈæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/app/apple/apple.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565889/apple_yk1af7.jpg,trái táo
+ambarella,/’æmbə’rælə/,noun,,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565889/ambarella_fdcb3e.jpg,trái cóc
+apricot,/ˈeɪ.prɪ.kɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus70/eus70291.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565889/apricot_dalqh0.jpg,trái mơ
+avocado,/ˌɑː.vəˈkɑː.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00050.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/avocado_uwuyd1.jpg,trái bơ
+banana,/bəˈnæn.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/ban/banan/banana.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/banana_miaqmk.jpg,trái chuối
+strawberry,/ˈstrɑːˌber.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/str/straw/strawberry.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565896/strawberry_ruxsnp.jpg,trái dâu tây
+cherry,/ˈtʃer.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/cherr/cherry.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565891/cherry_wg7otx.jpg,trái anh đào
+sugar cane,/ˈʃʊɡ.ɚ ˌkeɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa35/usa35167.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565904/sugar_cane_jjxhqo.jpg,cây mía
+coconut,/ˈkoʊ.kə.nʌt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/coc/cocon/coconut.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565889/coconut_q0tezx.jpg,trái dừa
+custard apple,/ˈkʌs.tɚd ˌæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo11/cdo1121uscust1264.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565889/custard_apple_fcxcyi.jpg,trái mãng cầu
+dragon fruit,/ˈdræɡ.ən ˌfruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usdrag1506.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/dragon_fruit_a1pxbb.jpg,trái thanh long (pitaya)
+pitaya,/pɪˈtaɪ.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uspita3712.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/dragon_fruit_a1pxbb.jpg,trái thanh long (dragon fruit)
+durian,/ˈdʊr.i.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus09/eus09138.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/durian_jh3jtq.jpg,trái sầu riêng
+fig,/fɪɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fig/fig__/fig.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/fig_hsbnz3.jpg,trái sung
+grape,/ɡreɪp/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grape/grape.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565890/grape_n9kwyk.jpg,trái nho
+grapefruit,/ˈɡreɪp.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gra/grape/grapefruit.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565891/grapefruit_e2ig9f.jpg,trái bưởi (lai với cam)
+pomelo,/ˈpɑː.mə.loʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uspome3776.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565896/pomelo_csfsp7.jpg,trái bưởi (bưởi thường Việt Nam)
+guava,/ˈɡwɑː.və/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gua/guava/guava.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565891/guava_l5mwop.jpg,trái ổi
+jackfruit,/ˈdʒæk.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0319usjack0993.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565892/jackfruit_s5mpwy.jpg,trái mít
+kiwi,/ˈkiː.wiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usk/uskil/uskillj030.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565891/kiwi_ilzqt0.jpg,trái kiwi
+kumquat,/ˈkʌm.kwɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usk/uskoi/uskoing018.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749566520/kumquat_bw9d5b.jpg,trái quất (trái tắc)
+lemon,/ˈlem.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lem/lemon/lemon.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565892/lemon_k1mwj2.jpg,quả chanh vàng
+lime,/laɪm/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lim/lime_/lime.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565892/lime_ykn1t0.jpg,quả chanh xanh
+longan,/ˈlɑːŋ.ɡən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318uslong2787.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565892/longan_q7rvba.jpg,trái nhãn
+lychee,/ˈliː.tʃiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usl/uslux/usluxur005.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565892/lychee_ury4nk.jpg,quả vải (litchi)
+mandarin,/ˈmæn.dɚ.ɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usm/usmam/usmammo008.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/mandarin_ttx8mw.jpg,trái quýt (tangerine)
+tangerine,/ˈtæn.dʒə.riːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tan/tange/tangerine.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/mandarin_ttx8mw.jpg,trái quýt (mandarin)
+mango,/ˈmæŋ.ɡoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/man/mango/mango.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/mango_qhb1fa.jpg,quả xoài
+mangosteen,/ˈmæŋ.ɡə.stiːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usmang2876.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/mangosteen_htz0pj.jpg,trái măng cụt
+watermelon,/ˈwɑː.t̬ɚˌmel.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wat/water/watermelon.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565897/watermelon_oa3ls4.jpg,trái dưa hấu
+orange,/ˈɔːr.ɪndʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75268.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/orange_kz4uvc.jpg,trái cam
+papaya,/pəˈpaɪ.ə/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73412.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/papaya_gkeoeo.jpg,trái đu đủ (pawpaw)
+pawpaw,/ˈpɑː.pɑː/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspat/uspatho019.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/papaya_gkeoeo.jpg,trái đu đủ (papaya)
+passion fruit,/ˈpæʃ.ən ˌfruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa34/usa34123.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565893/passion_fruit_tx4tw7.jpg,trái chanh dây
+peach,/piːtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pea/peach/peach.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565894/peach_pt0qz0.jpg,trái đào
+pear,/per/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pai/pair_/pair.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565894/pear_epkkax.jpg,trái lê
+persimmon,/pɚˈsɪm.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75865.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565894/persimmon_htmqmk.jpg,trái hồng
+pineapple,/ˈpaɪnˌæp.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pin/pinea/pineapple.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565894/pineapple_l9aaln.jpg,trái dứa
+plum,/plʌm/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/plu/plum_/plum.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565895/plum_stjvii.jpg,trái mận
+pomegranate,/ˈpɑː.məˌɡræn.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pom/pomeg/pomegranate.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565895/pomegranate_qvwwt2.jpg,trái lựu
+rambutan,/ræmˈbuː.tən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usramb4006.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565895/rambutan_s9fuon.jpg,trái chôm chôm
+star apple,/stɑːr ˈæp.əl/,noun,,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565896/star_apple_uornoy.jpg,trái vú sữa
+starfruit,/ˈstɑːr.fruːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa31/usa31451.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565896/starfruit_fzrels.jpg,trái khế
+tamarind,/ˈtæm.ɚ.ɪnd/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustak/ustakeo016.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749565897/tamarind_ppf8yb.jpg,trái me
+bean,/biːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bea/bean_/bean.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707543/bean_jfmsmv.jpg,hạt đậu
+cabbage,/ˈkæb.ɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cab/cabba/cabbage.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707548/cabbage_juhz2j.jpg,bắp cải
+carrot,/ˈker.ət/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/car/carat/carat.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707548/carrot_fme7vs.jpg,củ cà rốt
+corn,/kɔːrn/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cor/corn_/corn.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707553/corn_gujxj7.jpg,"ngô, bắp"
+cucumber,/ˈkjuː.kʌm.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cuc/cucum/cucumber.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707553/cucumber_haixzi.jpg,dưa leo (dưa chuột)
+tomato,/təˈmeɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usb03/usb03206.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707580/tomato_yhegq6.jpg,quả cà chua
+garlic,/ˈɡɑːr.lɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gar/garli/garlic.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707556/garlic_mmro1n.jpg,củ tỏi
+onion,/ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75215.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707566/onion_wnecll.jpg,củ hành
+spring onion,/ˌsprɪŋ ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us2175.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707578/spring_onion_sjaud6.jpg,"hành lá (US green onion, scallion)"
+green onion,/ˌɡriːn ˈʌn.jən/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33139.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707578/spring_onion_sjaud6.jpg,hành lá (scallion)
+scallion,/ˈskæl.i.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sca/scall/scallion.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707578/spring_onion_sjaud6.jpg,hành lá (green onion)
+ginger,/ˈdʒɪn.dʒɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gin/ginge/ginger.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707557/ginger_j3vofk.jpg,củ gừng
+turmeric,/ˈtɜː.mər.ɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustur/usturk_007.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707581/turmeric_hptz7o.jpg,củ nghệ
+potato,/pəˈteɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pot/potat/potato.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707571/potato_cnrdlb.jpg,củ khoai tây
+sweet potato,/ˌswiːt pəˈteɪ.t̬oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01428.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707578/sweet_potato_vicwqs.jpg,củ khoai lang
+pumpkin,/ˈpʌmp.kɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pum/pumpk/pumpkin.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707572/pumpkin_yf7mbf.jpg,"bí ngô, bí đỏ"
+beet,/biːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bea/beat_/beat.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707545/beet_cyc0vd.jpg,"củ cải đường, củ dền"
+cauliflower,/ˈkɑː.ləˌflaʊ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cau/cauli/cauliflower.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707549/cauliflower_saxrsr.jpg,súp lơ (bông cải trắng)
+broccoli,/ˈbrɑː.kəl.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bro/brocc/broccoli.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707547/broccoli_g2bubl.jpg,bông cải xanh
+eggplant,/ˈeɡ.plænt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/egg/eggpl/eggplant.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707555/eggplant_kwhmlf.jpg,trái cà tím
+celery,/ˈsel.ər.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cel/celer/celery.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707550/celery_ddk62m.jpg,(rau) cần tây
+leek,/liːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lea/leak_/leak.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707562/leek_ay7b3b.jpg,tỏi tây
+lettuce,/ˈlet.ɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/let/lettu/lettuce.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707563/lettuce_bomkce.jpg,"rau diếp, xà lách"
+mushroom,/ˈmʌʃ.rʊm/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mus/mushr/mushroom.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707564/mushroom_s3bqjn.jpg,nấm
+chili,/ˈtʃɪl.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/chi/chill/chilly.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707551/chili_gexebl.jpg,ớt cay
+bell pepper,/ˈbel ˌpep.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa30/usa30163.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707546/bell_pepper_itu4os.jpg,ớt chuông
+herb,/hɜːb/ - /ɝːb/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/her/herb_/herb.mp3,,rau thơm (nói chung)
+peppercorn,/ˈpep.ɚ.kɔːrn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usp/uspen/uspenit016.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707569/peppercorn_ic6naf.jpg,hạt tiêu
+pepper,/ˈpep.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73488.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707568/pepper_bc3gnl.jpg,hạt tiêu xay nhuyễn
+soup,/suːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sou/soup_/soup.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707577/soup_wtmyh8.jpg,"món súp, món canh"
+salad,/ˈsæl.əd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sal/salad/salad.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707573/salad_g5lmdg.jpg,rau trộn
+bread,/bred/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bre/bread/bread.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707546/bread_v5pizn.jpg,bánh mì
+sausage,/ˈsɑː.sɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sau/sausa/sausage.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707575/sausage_yvubv7.jpg,xúc xích
+hot dog,/ˈhɑːt ˌdɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00684.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707559/hot_dog_zkn5bj.jpg,bánh mỳ kẹp xúc xích
+bacon,/ˈbeɪ.kən/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bac/bacon/bacon.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707542/bacon_vdcfax.jpg,thịt xông khói
+egg,/eɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/egg/egg__/egg.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707554/egg_jws7xu.jpg,trứng
+pork,/pɔːrk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/por/pork_/pork.mp3,,thịt lợn
+beef,/biːf/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bee/beef_/beef.mp3,,thịt bò
+lamb,/læm/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamb_/lamb.mp3,,thịt cừu
+rib,/rɪb/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rib/rib__/rib.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707573/rib_anl3yv.jpg,sườn
+seafood,/ˈsiː.fuːd/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/usscr/usscrum024.mp3,,hải sản
+salmon,/ˈsæm.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sal/salmo/salmon.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707574/salmon_wtfl1w.jpg,cá hồi
+tuna,/ˈtuː.nə/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tun/tuna_/tuna.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707581/tuna_tmvnuj.png,cá ngừ
+pizza,/ˈpiːt.sə/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/piz/pizza/pizza.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707570/pizza_dksvu1.jpg,bánh pizza
+beefsteak,/ˈbiːf.steɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo06/cdo0623usbeef0191.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707544/beefsteak_esil7g.jpg,bít tết
+French fries,/ˈfrentʃ ˈfrɑɪz/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdomi/cdomiscusfren0029.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707556/French_fries_hr4oli.jpg,khoai tây chiên (fries)
+hamburger,/ˈhæmˌbɝː.ɡɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/ham/hambu/hamburger.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707558/hamburger_iqcnct.jpg,bánh hamburger
+sandwich,/ˈsæn.wɪtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/san/sandw/sandwich.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707575/sandwich_i5dzdn.jpg,bánh mỳ kẹp
+pancake,/ˈpæn.keɪk/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pan/panca/pancake.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707567/pancake_kdzexw.jpg,"bánh kếp, bánh xèo"
+noodle,/ˈnuː.dəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noo/noodl/noodle.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707565/noodle_tqnwre.jpg,"mỳ, bún"
+pasta,/ˈpæs.tə/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pas/pasta/pasta.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707568/pasta_qjroaw.jpg,mỳ Ý
+cheese,/tʃiːz/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/che/chees/cheese.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707551/cheese_t9yoan.jpg,pho mát
+hot pot,/ˈhɒt.pɒt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ush/ushos/ushoste009.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707559/hot_pot_mlqyl6.jpg,lẩu
+porridge,/ˈpɔːr.ɪdʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/por/porri/porridge.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707570/porridge_fxmral.jpg,cháo
+water,/ˈwɑː.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld2s094.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707582/water_jtpwms.jpg,nước
+lemonade,/ˌlem.əˈneɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72759.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707562/lemonade_ujqtwn.jpg,nước chanh
+juice,/dʒuːs/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jui/juice/juice.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707561/juice_l7ziug.jpg,nước ép hoa quả
+smoothie,/ˈsmuː.ði/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussmo/ussmoke005.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707576/smoothie_noawus.jpg,sinh tố
+coffee,/ˈkɑː.fi/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cof/coffe/coffee.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707552/coffee_ooqjpm.jpg,cà phê
+tea,/tiː/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/t__/t____/t.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707579/tea_uujzjn.jpg,trà
+milk,/mɪlk/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mil/milk_/milk.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707564/milk_nzfrvb.jpg,sữa
+hot chocolate,/ˌhɑːt ˈtʃɑːk.lət/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33345.mp3,,sô cô la nóng
+beer,/bɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bee/beer_/beer.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707544/beer_dvhvib.jpg,bia
+wine,/waɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/win/wine_/wine.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707583/wine_wuwouz.jpg,rượu
+yogurt,/ˈjoʊ.ɡɚt/,noun,https://dictionary.cambridge.org/media/english/us_pron/y/yog/yogur/yogurt.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707584/yogurt_nyc6xt.jpg,sữa chua
+ice cream,/ˈaɪs ˌkriːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cdo/cdo03/cdo0318usicec2403.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707560/ice_cream_gvzj8j.jpg,kem
+second,/ˈsek.ənd/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sec/secon/second.mp3,,giây
+minute,/ˈmɪn.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus73/eus73026.mp3,,phút
+hour,/aʊr/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hou/hour_/hour.mp3,,giờ
+week,/wiːk/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wea/weak_/weak.mp3,,tuần
+decade,/ˈdek.eɪd/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dec/decad/decade.mp3,,thập kỷ (10 năm)
+century,/ˈsen.tʃər.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cen/centu/century.mp3,,thế kỷ (100 năm)
+weekend,/ˈwiːk.end/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usw/uswea/usweare018.mp3,,cuối tuần
+month,/mʌnθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mon/month/month.mp3,,tháng
+year,/jɪr/,noun,https://dictionary.cambridge.org/media/english/us_pron/y/yea/year_/year.mp3,,năm
+day,/deɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/day/day__/day.mp3,,ngày
+millennium,/mɪˈlen.i.əm/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mil/mille/millennium.mp3,,thiên niên kỷ (1000 năm)
+morning,/ˈmɔːr.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mor/morni/morning.mp3,,buổi sáng
+noon,/nuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/noo/noon_/noon.mp3,,buổi trưa
+afternoon,/ˌæf.tɚˈnuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aft/after/afternoon.mp3,,buổi chiều
+evening,/ˈiːv.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eve/eveni/evening.mp3,,buổi tối
+midnight,/ˈmɪd.naɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mid/midni/midnight.mp3,,nửa đêm
+dusk,/dʌsk/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dus/dusk_/dusk.mp3,,hoàng hôn (mặt trời đã lặn)
+sunset,/ˈsʌn.set/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussun/ussunbl020.mp3,,mặt trời lặn
+dawn,/dɑːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/daw/dawn_/dawn.mp3,,bình minh (mặt trời chưa mọc)
+sunrise,/ˈsʌn.raɪz/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussun/ussunbl017.mp3,,mặt trời mọc
+always,/ˈɑːl.weɪz/,adverb,https://dictionary.cambridge.org/media/english/us_pron/a/alw/alway/always.mp3,,luôn luôn (100%)
+often,/ˈɑːf.ən/ - /ˈɑːf.tən/,adverb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75181.mp3,,thường (70%)
+normally,/ˈnɔːr.mə.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd081.mp3,,"thông thường, thường lệ (80%)"
+usually,/’ju:ʒəli/,adverb,https://dictionary.cambridge.org/media/english/us_pron/u/usu/usual/usually.mp3,,thường xuyên (90%)
+sometimes,/ˈsʌm.taɪmz/,adverb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74306.mp3,,thỉnh thoảng (50%)
+occasionally,/əˈkeɪ.ʒən.əl.i/,adverb,https://dictionary.cambridge.org/media/english/us_pron/o/occ/occas/occasionally.mp3,,"thỉnh thoảng, tuỳ lúc (30%)"
+rarely,/ˈrer.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/r/rar/rarel/rarely.mp3,,"hiếm khi, ít khi, gần như không bao giờ (5%)"
+never,/ˈnev.ɚ/,adverb,https://dictionary.cambridge.org/media/english/us_pron/n/nev/never/never.mp3,,không bao giờ (0%)
+frequently,/ˈfriː.kwənt.li/,adverb,https://dictionary.cambridge.org/media/english/us_pron/f/fre/frequ/frequently.mp3,,thường (70%)
+generally,/ˈdʒen.ə r.əl.i/,adverb,https://dictionary.cambridge.org/media/english/us_pron/g/gen/gener/generally.mp3,,"thông thường, thường lệ (80%)"
 hardly ever,/ˈhɑːrd.li ˈev.ər/,adverb,,"hiếm khi, ít khi, gần như không bao giờ (5%)"
-January,/ˈdʒæn.ju.er.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jan/janua/january.mp3,tháng một
-February,/ˈfeb.ruː.er.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71794.mp3,tháng hai
-March,/mɑːrtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mar/march/march.mp3,tháng ba
-April,/ˈeɪ.prəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/apr/april/april.mp3,tháng tư
-May,/meɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72942.mp3,tháng năm
-June,/dʒuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jun/june_/june.mp3,tháng sáu
-July,/dʒʊˈlaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jul/july_/july.mp3,tháng bảy
-August,/ˈɑː.ɡəst/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aug/augus/august_02_00.mp3,tháng tám
-September,/sepˈtem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sep/septe/september.mp3,tháng chín
-October,/ɑːkˈtoʊ.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75151.mp3,tháng mười
-November,/noʊˈvem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/nov/novem/november.mp3,tháng mười một
-December,/dɪˈsem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dec/decem/december.mp3,tháng mười hai
-spring,/sprɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/spr/sprin/spring.mp3,mùa xuân
-summer,/ˈsʌm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sum/summe/summer.mp3,"mùa hạ, mùa hè"
-autumn,/ˈɔː.təm/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75494.mp3,mùa thu (Fall)
-fall,/fɑːl/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fal/fall_/fall.mp3,mùa thu (UK autumn)
-winter,/ˈwɪn.tər/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75004.mp3,mùa đông
-rain,/reɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rai/rain_/rain.mp3,mưa
-cloudy,/ˈklaʊ.di/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/clo/cloud/cloudy.mp3,nhiều mây
-windy,/ˈwɪn·di/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/win/windy/windy.mp3,nhiều gió
-sunny,/ˈsʌn.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sun/sunny/sunny.mp3,có nắng (ít mây)
-stormy,/ˈstɔːr.mi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sto/storm/stormy.mp3,có bão
-dry,/draɪ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/d/dry/dry__/dry.mp3,"khô, ráo"
-hot,/hɑːt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hot/hot__/hot.mp3,nóng
-wet,/wet/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/wet/wet__/wet.mp3,ẩm ướt
-cold,/koʊld/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/col/cold_/cold.mp3,lạnh
-lightning,/ˈlaɪt.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lig/light/lightning.mp3,tia chớp
-flood,/flʌd/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/flood/flood.mp3,"lũ, lụt"
-snow,/snoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sno/snow_/snow.mp3,tuyết
-thunder,/ˈθʌn.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/thu/thund/thunder.mp3,tiếng sấm
-foggy,/ˈfɔ·ɡi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75755.mp3,có sương mù
-weather,/ˈweð.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wea/weath/weather.mp3,thời tiết
-weather forecast,/ˈweð.ɚ ˌfɔːr.kæst/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01607.mp3,dự báo thời tiết
-bright,/braɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bri/brigh/bright.mp3,"đầy ánh sáng, sáng mạnh"
-mild,/maɪld/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mil/mild_/mild.mp3,"ôn hoà, không lạnh lắm"
-climate,/ˈklaɪ.mət/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cli/clima/climate.mp3,khí hậu
-hail,/heɪl/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hai/hail_/hail.mp3,mưa đá
-thunderstorm,/ˈθʌn.dɚ.stɔːrm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/usthu/usthund001.mp3,"bão, có nhiều sấm sét"
-snowstorm,/ˈsnəʊ.stɔːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussni/ussniff024.mp3,bão tuyết
-gale,/ɡeɪl/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gal/gale_/gale.mp3,gió mạnh
-tornado,/tɔːrˈneɪ.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tor/torna/tornado.mp3,lốc xoáy
-typhoon,/taɪˈfuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/typ/typho/typhoon.mp3,bão nhiệt đới (Tây Thái Bình Dương)
-rainbow,/ˈreɪn.boʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rai/rainb/rainbow.mp3,cầu vồng
-hurricane,/ˈhɝː.ɪ.keɪn/ - /ˈhɝː.ɪ.kən/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hur/hurri/hurricane.mp3,bão nhiệt đới (Đại Tây Dương và đông bắc Thái Bình Dương)
-fog,/fɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75754.mp3,"sương mù (dày, xuất hiện ở thôn quê hoặc thành phố)"
-mist,/mɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mis/mist_/mist.mp3,"sương mù (mỏng, xuất hiện ở vùng núi hoặc gần biển)"
-smog,/smɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/smo/smog_/smog.mp3,"sương mù (sự ô nhiễm bởi khói, bụi ở các thành phố)"
-frosty,/ˈfrɑː.sti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fro/frost/frosty.mp3,"rất lạnh, lạnh đến đóng băng"
-freeze,/friːz/,verb,https://dictionary.cambridge.org/media/english/us_pron/f/fre/freez/freeze.mp3,đóng băng
-temperature,/ˈtem.prə.tʃər/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tem/tempe/temperature.mp3,nhiệt độ
-thermometer,/θɚˈmɑː.mə.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74541.mp3,nhiệt kế
-degree,/dɪˈɡriː/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75549.mp3,"độ (°), mức độ"
-walk,/wɑːk/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/wal/walk_/walk.mp3,đi bộ
-jog,/dʒɑːɡ/,verb,https://dictionary.cambridge.org/media/english/us_pron/j/jog/jog__/jog.mp3,chạy chậm (tập thể dục)
-run,/rʌn/,verb,https://dictionary.cambridge.org/media/english/us_pron/r/run/run__/run.mp3,chạy
-tiptoe,/ˈtɪp.toʊ/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tip/tipto/tiptoe.mp3,"đi nhẹ nhàng, đi nhón chân"
-jump,/dʒʌmp/,verb,https://dictionary.cambridge.org/media/english/us_pron/j/jum/jump_/jump.mp3,nhảy lên
-leap,/liːp/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lea/leap_/leap.mp3,"nhảy xa, nhảy từ nơi này sang nơi khác"
-stand,/stænd/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sta/stand/stand.mp3,đứng
-sit,/sɪt/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sit/sit__/sit.mp3,ngồi
-lean,/liːn/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lea/lean_/lean.mp3,"dựa, tựa"
-wave,/weɪv/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/wai/waive/waive.mp3,vẫy tay
-clap,/klæp/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cla/clap_/clap.mp3,vỗ tay
-point,/pɔɪnt/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/poi/point/point.mp3,"chỉ, trỏ"
-catch,/kætʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cat/catch/catch.mp3,"bắt, đỡ"
-stretch,/stretʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/str/stret/stretch.mp3,"vươn (vai..), ưỡn lưng"
-push,/pʊʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pus/push_/push.mp3,đẩy
-pull,/pʊl/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pul/pull_/pull.mp3,kéo
-crawl,/krɑːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cra/crawl/crawl.mp3,"bò, trườn"
-bend,/bend/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/ben/bend_/bend.mp3,"cúi, uốn cong"
-talk,/tɑːk/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tal/talk_/talk.mp3,"nói chuyện, trò chuyện"
-kiss,/kɪs/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kis/kiss_/kiss.mp3,hôn
-laugh,/læf/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lau/laugh/laugh.mp3,cười lớn
-smile,/smaɪl/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/smi/smile/smile.mp3,mỉm cười
-frown,/fraʊn/,verb,https://dictionary.cambridge.org/media/english/us_pron/f/fro/frown/frown.mp3,nhíu mày
-cry,/kraɪ/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cry/cry__/cry.mp3,khóc
-hit,/hɪt/,verb,https://dictionary.cambridge.org/media/english/us_pron/h/hit/hit__/hit.mp3,"đánh, va phải"
-punch,/pʌntʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pun/punch/punch.mp3,đấm
-kick,/kɪk/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kic/kick_/kick.mp3,đá
-put down,/pʊt daʊn/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/put/put__/put.mp3,đặt xuống
-drop,/drɑːp/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dro/drop_/drop.mp3,"rơi, làm rơi"
-break,/breɪk/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brake/brake.mp3,"làm vỡ, bẻ gãy"
-drag,/dræɡ/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dra/drag_/drag.mp3,"lôi, kéo"
-carry,/ˈker.i/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/car/carry/carry.mp3,"mang, vác"
-open,/ˈoʊ.pən/,verb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75227.mp3,mở ra
-lie down,/ˌlaɪˈdaʊn/,phrasal verb,https://dictionary.cambridge.org/media/english/us_pron/l/lie/lie__/lie.mp3,"nằm xuống, ngả lưng"
-hold,/hoʊld/,verb,https://dictionary.cambridge.org/media/english/us_pron/h/hol/hold_/hold.mp3,"nắm, giữ"
-lift,/lɪft/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lif/lift_/lift.mp3,nâng lên
-throw,/θroʊ/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/thr/throw/throw.mp3,"ném, quăng, vứt"
-trip,/trɪp/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tri/trip_/trip.mp3,"ngáng chân, vấp ngã"
-squat,/skwɑːt/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squat/squat.mp3,ngồi xổm
-cartwheel,/ˈkɑːrt.wiːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/car/cartw/cartwheel.mp3,nhào lộn
-dive,/daɪv/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/div/dive_/dive.mp3,"nhảy lao xuống nước, lặn"
-dance,/dæns/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dan/dance/dance.mp3,"nhảy múa, khiêu vũ"
-look,/lʊk/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/loo/look_/look.mp3,"nhìn, ngắm"
-kneel,/niːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kne/kneel/kneel.mp3,quỳ gối
-slip,/slɪp/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sli/slip_/slip.mp3,"trượt, tuột"
-blink,/blɪŋk/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/bli/blink/blink.mp3,chớp mắt
-wink,/wɪŋk/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/win/wink_/wink.mp3,nháy mắt
-living room,/ˈlɪv.ɪŋ ˌruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00823.mp3,phòng khách
-dining room,/ˈdaɪ.nɪŋ ˌruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00339.mp3,phòng ăn
-kitchen,/ˈkɪtʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kit/kitch/kitchen.mp3,nhà bếp
-bedroom,/ˈbed.ruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbed/usbedpo003.mp3,phòng ngủ
-bathroom,/ˈbæθ.ruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bat/bathr/bathroom.mp3,phòng tắm
-garage,/ɡəˈrɑːʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gar/garag/garage.mp3,"ga ra, nhà để xe"
-basement,/ˈbeɪs.mənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bas/basem/basement.mp3,tầng hầm
-roof,/ruːf/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74018.mp3,mái nhà
-entrance,/ˈen.trəns/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usad6/usad6073.mp3,"lối vào, cổng vào"
-patio,/ˈpæt̬.i.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pat/patio/patio.mp3,"hiên, sân hè"
-balcony,/ˈbæl.kə.ni/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bal/balco/balcony.mp3,ban công
-floor,/flɔːr/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/floor/floor.mp3,sàn nhà
-wall,/wɑːl/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wal/wall_/wall.mp3,tường
-ceiling,/ˈsiː.lɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cei/ceili/ceiling.mp3,trần nhà
-door,/dɔːr/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/doo/door_/door.mp3,cửa ra vào
-window,/ˈwɪn.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/win/windo/window.mp3,cửa sổ
-curtain,/ˈkɝː.tən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cur/curta/curtain.mp3,rèm cửa
-armchair,/ˈɑːrm.tʃer/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/arm/armch/armchair.mp3,"ghế bành, ghế có tựa tay"
-couch,/kaʊtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cou/couch/couch.mp3,"ghế dài, ghế sofa"
-sofa,/ˈsoʊ.fə/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sof/sofa_/sofa.mp3,ghế sofa
-table,/ˈteɪ.bəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tab/table/table.mp3,cái bàn
-lamp,/læmp/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamp_/lamp.mp3,"đèn ngủ, đèn để bàn, đèn học"
-fan,/fæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fan/fan__/fan.mp3,cái quạt
-air conditioner,/ˈer kənˌdɪʃ.ən.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00018.mp3,máy điều hòa nhiệt độ
-television,/ˈtel.ə.vɪʒ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tel/telev/television.mp3,ti vi
-bookshelf,/ˈbʊk.ʃelf/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbon/usbonvi030.mp3,kệ sách
-rug,/rʌɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rug/rug__/rug.mp3,thảm trải sàn
-cupboard,/ˈkʌb.ɚd/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cup/cupbo/cupboard.mp3,tủ (đựng chén bát)
-refrigerator,/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/ref/refri/refrigerator.mp3,tủ lạnh
-stove,/stoʊv/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sto/stove/stove.mp3,bếp lò
-gas stove,/ɡæs stoʊv/,noun,,bếp ga
+January,/ˈdʒæn.ju.er.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jan/janua/january.mp3,,tháng một
+February,/ˈfeb.ruː.er.i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus71/eus71794.mp3,,tháng hai
+March,/mɑːrtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mar/march/march.mp3,,tháng ba
+April,/ˈeɪ.prəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/apr/april/april.mp3,,tháng tư
+May,/meɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72942.mp3,,tháng năm
+June,/dʒuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jun/june_/june.mp3,,tháng sáu
+July,/dʒʊˈlaɪ/,noun,https://dictionary.cambridge.org/media/english/us_pron/j/jul/july_/july.mp3,,tháng bảy
+August,/ˈɑː.ɡəst/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/aug/augus/august_02_00.mp3,,tháng tám
+September,/sepˈtem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sep/septe/september.mp3,,tháng chín
+October,/ɑːkˈtoʊ.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75151.mp3,,tháng mười
+November,/noʊˈvem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/n/nov/novem/november.mp3,,tháng mười một
+December,/dɪˈsem.bɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/dec/decem/december.mp3,,tháng mười hai
+spring,/sprɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/spr/sprin/spring.mp3,,mùa xuân
+summer,/ˈsʌm.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sum/summe/summer.mp3,,"mùa hạ, mùa hè"
+autumn,/ˈɔː.təm/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75494.mp3,,mùa thu (Fall)
+fall,/fɑːl/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fal/fall_/fall.mp3,,mùa thu (UK autumn)
+winter,/ˈwɪn.tər/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75004.mp3,,mùa đông
+rain,/reɪn/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rai/rain_/rain.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707646/rain_arzovd.jpg,mưa
+cloudy,/ˈklaʊ.di/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/clo/cloud/cloudy.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707642/cloudy_xllga2.jpg,nhiều mây
+windy,/ˈwɪn·di/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/win/windy/windy.mp3,,nhiều gió
+sunny,/ˈsʌn.i/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sun/sunny/sunny.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707649/sunny_btpx9f.jpg,có nắng (ít mây)
+stormy,/ˈstɔːr.mi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/s/sto/storm/stormy.mp3,,có bão
+dry,/draɪ/,adjective,https://dictionary.cambridge.org/media/english/us_pron/d/dry/dry__/dry.mp3,,"khô, ráo"
+hot,/hɑːt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/h/hot/hot__/hot.mp3,,nóng
+wet,/wet/,adjective,https://dictionary.cambridge.org/media/english/us_pron/w/wet/wet__/wet.mp3,,ẩm ướt
+cold,/koʊld/,adjective,https://dictionary.cambridge.org/media/english/us_pron/c/col/cold_/cold.mp3,,lạnh
+lightning,/ˈlaɪt.nɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lig/light/lightning.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707645/lightning_w2mywc.jpg,tia chớp
+flood,/flʌd/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/flood/flood.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707642/flood_j3okao.jpg,"lũ, lụt"
+snow,/snoʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sno/snow_/snow.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707648/snow_mbbzfd.jpg,tuyết
+thunder,/ˈθʌn.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/thu/thund/thunder.mp3,,tiếng sấm
+foggy,/ˈfɔ·ɡi/,adjective,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75755.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707643/foggy_jxunw6.jpg,có sương mù
+weather,/ˈweð.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wea/weath/weather.mp3,,thời tiết
+weather forecast,/ˈweð.ɚ ˌfɔːr.kæst/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01607.mp3,,dự báo thời tiết
+bright,/braɪt/,adjective,https://dictionary.cambridge.org/media/english/us_pron/b/bri/brigh/bright.mp3,,"đầy ánh sáng, sáng mạnh"
+mild,/maɪld/,adjective,https://dictionary.cambridge.org/media/english/us_pron/m/mil/mild_/mild.mp3,,"ôn hoà, không lạnh lắm"
+climate,/ˈklaɪ.mət/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cli/clima/climate.mp3,,khí hậu
+hail,/heɪl/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hai/hail_/hail.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707644/hail_pbtvjz.jpg,mưa đá
+thunderstorm,/ˈθʌn.dɚ.stɔːrm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/usthu/usthund001.mp3,,"bão, có nhiều sấm sét"
+snowstorm,/ˈsnəʊ.stɔːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/uss/ussni/ussniff024.mp3,,bão tuyết
+gale,/ɡeɪl/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gal/gale_/gale.mp3,,gió mạnh
+tornado,/tɔːrˈneɪ.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tor/torna/tornado.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707650/tornado_z4ygbs.jpg,lốc xoáy
+typhoon,/taɪˈfuːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/typ/typho/typhoon.mp3,,bão nhiệt đới (Tây Thái Bình Dương)
+rainbow,/ˈreɪn.boʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rai/rainb/rainbow.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707647/rainbow_junllu.jpg,cầu vồng
+hurricane,/ˈhɝː.ɪ.keɪn/ - /ˈhɝː.ɪ.kən/,noun,https://dictionary.cambridge.org/media/english/us_pron/h/hur/hurri/hurricane.mp3,,bão nhiệt đới (Đại Tây Dương và đông bắc Thái Bình Dương)
+fog,/fɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75754.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707643/foggy_jxunw6.jpg,"sương mù (dày, xuất hiện ở thôn quê hoặc thành phố)"
+mist,/mɪst/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mis/mist_/mist.mp3,,"sương mù (mỏng, xuất hiện ở vùng núi hoặc gần biển)"
+smog,/smɑːɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/smo/smog_/smog.mp3,,"sương mù (sự ô nhiễm bởi khói, bụi ở các thành phố)"
+frosty,/ˈfrɑː.sti/,adjective,https://dictionary.cambridge.org/media/english/us_pron/f/fro/frost/frosty.mp3,,"rất lạnh, lạnh đến đóng băng"
+freeze,/friːz/,verb,https://dictionary.cambridge.org/media/english/us_pron/f/fre/freez/freeze.mp3,,đóng băng
+temperature,/ˈtem.prə.tʃər/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tem/tempe/temperature.mp3,,nhiệt độ
+thermometer,/θɚˈmɑː.mə.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74541.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707650/thermometer_ryw0p0.jpg,nhiệt kế
+degree,/dɪˈɡriː/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75549.mp3,,"độ (°), mức độ"
+walk,/wɑːk/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/wal/walk_/walk.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707201/walk_odeydu.jpg,đi bộ
+jog,/dʒɑːɡ/,verb,https://dictionary.cambridge.org/media/english/us_pron/j/jog/jog__/jog.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707197/jog_eraqhn.jpg,chạy chậm (tập thể dục)
+run,/rʌn/,verb,https://dictionary.cambridge.org/media/english/us_pron/r/run/run__/run.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707199/run_l0pxvh.jpg,chạy
+tiptoe,/ˈtɪp.toʊ/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tip/tipto/tiptoe.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707201/tiptoe_cvqyri.jpg,"đi nhẹ nhàng, đi nhón chân"
+jump,/dʒʌmp/,verb,https://dictionary.cambridge.org/media/english/us_pron/j/jum/jump_/jump.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707197/jump_zewqid.jpg,nhảy lên
+leap,/liːp/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lea/leap_/leap.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707198/leap_nxwefn.jpg,nhảy xa hoặc cao, nhảy từ nơi này sang nơi khác
+stand,/stænd/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sta/stand/stand.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707200/stand_nyra2h.jpg,đứng
+sit,/sɪt/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sit/sit__/sit.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707200/sit_i4fv3y.jpg,ngồi
+lean,/liːn/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lea/lean_/lean.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707198/lean_dfcbid.jpg,"dựa, tựa"
+wave,/weɪv/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/wai/waive/waive.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707201/wave_u6lfpa.jpg,vẫy tay
+clap,/klæp/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cla/clap_/clap.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707196/clap_lyiqti.jpg,vỗ tay
+point,/pɔɪnt/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/poi/point/point.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707198/point_t1ffvw.jpg,"chỉ, trỏ"
+catch,/kætʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cat/catch/catch.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707196/catch_xi3h22.jpg,"bắt, đỡ"
+stretch,/stretʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/str/stret/stretch.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707201/stretch_bihas5.jpg,"vươn (vai..), ưỡn lưng"
+push,/pʊʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pus/push_/push.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707199/push_nejrmd.jpg,đẩy
+pull,/pʊl/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pul/pull_/pull.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707199/pull_t8ucdd.jpg,kéo
+crawl,/krɑːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cra/crawl/crawl.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707197/crawl_rarlap.jpg,"bò, trườn"
+bend,/bend/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/ben/bend_/bend.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707196/bend_r7zrzd.jpg,"cúi, uốn cong"
+talk,/tɑːk/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tal/talk_/talk.mp3,,"nói chuyện, trò chuyện"
+kiss,/kɪs/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kis/kiss_/kiss.mp3,,hôn
+laugh,/læf/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lau/laugh/laugh.mp3,,cười lớn
+smile,/smaɪl/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/smi/smile/smile.mp3,,mỉm cười
+frown,/fraʊn/,verb,https://dictionary.cambridge.org/media/english/us_pron/f/fro/frown/frown.mp3,,nhíu mày
+cry,/kraɪ/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/cry/cry__/cry.mp3,,khóc
+hit,/hɪt/,verb,https://dictionary.cambridge.org/media/english/us_pron/h/hit/hit__/hit.mp3,,"đánh, va phải"
+punch,/pʌntʃ/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/pun/punch/punch.mp3,,đấm
+kick,/kɪk/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kic/kick_/kick.mp3,,đá
+put down,/pʊt daʊn/,verb,https://dictionary.cambridge.org/media/english/us_pron/p/put/put__/put.mp3,,đặt xuống
+drop,/drɑːp/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dro/drop_/drop.mp3,,"rơi, làm rơi"
+break,/breɪk/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/bra/brake/brake.mp3,,"làm vỡ, bẻ gãy"
+drag,/dræɡ/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dra/drag_/drag.mp3,,"lôi, kéo"
+carry,/ˈker.i/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/car/carry/carry.mp3,,"mang, vác"
+open,/ˈoʊ.pən/,verb,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus75/eus75227.mp3,,mở ra
+lie down,/ˌlaɪˈdaʊn/,phrasal verb,https://dictionary.cambridge.org/media/english/us_pron/l/lie/lie__/lie.mp3,,"nằm xuống, ngả lưng"
+hold,/hoʊld/,verb,https://dictionary.cambridge.org/media/english/us_pron/h/hol/hold_/hold.mp3,,"nắm, giữ"
+lift,/lɪft/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/lif/lift_/lift.mp3,,nâng lên
+throw,/θroʊ/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/thr/throw/throw.mp3,,"ném, quăng, vứt"
+trip,/trɪp/,verb,https://dictionary.cambridge.org/media/english/us_pron/t/tri/trip_/trip.mp3,,"ngáng chân, vấp ngã"
+squat,/skwɑːt/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/squ/squat/squat.mp3,,ngồi xổm
+cartwheel,/ˈkɑːrt.wiːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/c/car/cartw/cartwheel.mp3,,nhào lộn
+dive,/daɪv/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/div/dive_/dive.mp3,,"nhảy lao xuống nước, lặn"
+dance,/dæns/,verb,https://dictionary.cambridge.org/media/english/us_pron/d/dan/dance/dance.mp3,,"nhảy múa, khiêu vũ"
+look,/lʊk/,verb,https://dictionary.cambridge.org/media/english/us_pron/l/loo/look_/look.mp3,,"nhìn, ngắm"
+kneel,/niːl/,verb,https://dictionary.cambridge.org/media/english/us_pron/k/kne/kneel/kneel.mp3,,quỳ gối
+slip,/slɪp/,verb,https://dictionary.cambridge.org/media/english/us_pron/s/sli/slip_/slip.mp3,,"trượt, tuột"
+blink,/blɪŋk/,verb,https://dictionary.cambridge.org/media/english/us_pron/b/bli/blink/blink.mp3,,chớp mắt
+wink,/wɪŋk/,verb,https://dictionary.cambridge.org/media/english/us_pron/w/win/wink_/wink.mp3,,nháy mắt
+living room,/ˈlɪv.ɪŋ ˌruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00823.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707263/living_room_ipfpip.jpg,phòng khách
+dining room,/ˈdaɪ.nɪŋ ˌruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00339.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707255/dining_room_dbolpu.jpg,phòng ăn
+kitchen,/ˈkɪtʃ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/k/kit/kitch/kitchen.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707262/kitchen_cjgekl.jpg,nhà bếp
+bedroom,/ˈbed.ruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbed/usbedpo003.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707250/bedroom_svyp7u.jpg,phòng ngủ
+bathroom,/ˈbæθ.ruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bat/bathr/bathroom.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707248/bathroom_txrfqf.jpg,phòng tắm
+garage,/ɡəˈrɑːʒ/,noun,https://dictionary.cambridge.org/media/english/us_pron/g/gar/garag/garage.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707259/garage_saa0jk.jpg,"ga ra, nhà để xe"
+basement,/ˈbeɪs.mənt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bas/basem/basement.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707247/basement_ubazlo.jpg,tầng hầm
+roof,/ruːf/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74018.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707268/roof_l0p39l.jpg,mái nhà
+entrance,/ˈen.trəns/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usad6/usad6073.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707258/entrance_dxzokt.jpg,"lối vào, cổng vào"
+patio,/ˈpæt̬.i.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pat/patio/patio.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707266/patio_cwnsi3.jpg,"hiên, sân hè"
+balcony,/ˈbæl.kə.ni/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bal/balco/balcony.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707247/balcony_ex8nvr.jpg,ban công
+floor,/flɔːr/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/flo/floor/floor.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707259/floor_fcsldm.jpg,sàn nhà
+wall,/wɑːl/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/wal/wall_/wall.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707437/wall_ciehfo.jpg,tường
+ceiling,/ˈsiː.lɪŋ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cei/ceili/ceiling.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707253/ceiling_deavlg.jpg,trần nhà
+door,/dɔːr/,noun,https://dictionary.cambridge.org/media/english/us_pron/d/doo/door_/door.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707256/door_wfox6z.jpg,cửa ra vào
+window,/ˈwɪn.doʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/win/windo/window.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707439/window_jertwv.jpg,cửa sổ
+curtain,/ˈkɝː.tən/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cur/curta/curtain.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707255/curtain_ufwef1.jpg,rèm cửa
+armchair,/ˈɑːrm.tʃer/,noun,https://dictionary.cambridge.org/media/english/us_pron/a/arm/armch/armchair.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707246/armchair_lozwbe.jpg,"ghế bành, ghế có tựa tay"
+couch,/kaʊtʃ/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cou/couch/couch.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707254/couch_mufuu3.jpg,"ghế dài, ghế sofa"
+sofa,/ˈsoʊ.fə/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sof/sofa_/sofa.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707254/couch_mufuu3.jpg,ghế dài, ghế sofa (trang trọng)
+table,/ˈteɪ.bəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tab/table/table.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707434/table_oypvwo.jpg,cái bàn
+lamp,/læmp/,noun,https://dictionary.cambridge.org/media/english/us_pron/l/lam/lamp_/lamp.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707262/lamp_piiskq.jpg,"đèn ngủ, đèn để bàn, đèn học"
+fan,/fæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/f/fan/fan__/fan.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707258/fan_jymapw.jpg,cái quạt
+air conditioner,/ˈer kənˌdɪʃ.ən.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00018.mp3,,máy điều hòa nhiệt độ
+television,/ˈtel.ə.vɪʒ.ən/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tel/telev/television.mp3,,ti vi
+bookshelf,/ˈbʊk.ʃelf/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbon/usbonvi030.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707251/bookshelf_uhbqli.jpg,kệ sách
+rug,/rʌɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rug/rug__/rug.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707321/rug_dgxa3v.jpg,thảm trải sàn
+cupboard,/ˈkʌb.ɚd/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cup/cupbo/cupboard.mp3,,tủ có kệ, thường dùng đựng chén bát
+refrigerator,/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/ref/refri/refrigerator.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707268/refrigerator_djb0u8.jpg,tủ lạnh
+stove,/stoʊv/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sto/stove/stove.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/stove_sx6ogk.jpg,bếp lò
+gas stove,/ɡæs stoʊv/,noun,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/stove_sx6ogk.jpg,bếp ga
 electric stove,/ɪˈlek.trɪk stoʊv/,noun,,bếp điện
-microwave,/ˈmaɪ.kroʊ.weɪv/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd060.mp3,lò vi sóng
-cooker,/ˈkʊk.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscon/usconve018.mp3,nồi cơm điện
-blender,/ˈblen.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/ble/blend/blender.mp3,máy xay
-kettle,/ˈket̬.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72674.mp3,ấm đun nước
-tablecloth,/ˈteɪ.bəl.klɑːθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustab/ustable003.mp3,khăn trải bàn
-bed,/bed/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bed/bed__/bed.mp3,cái giường
-mattress,/ˈmæt.rəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mat/mattr/mattress.mp3,cái đệm
-blanket,/ˈblæŋ.kɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bla/blank/blanket.mp3,cái chăn
-pillow,/ˈpɪl.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pil/pillo/pillow.mp3,cái gối
-wardrobe,/ˈwɔːr.droʊb/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/war/wardr/wardrobe.mp3,tủ quần áo
-hairdryer,/ˈherˌdraɪ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00611.mp3,máy sấy tóc
-plant pot,/plænt pɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01738.mp3,chậu cây
-vase,/veɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/v/vas/vase_/vase.mp3,"bình hoa, lọ hoa"
-dressing table,/ˈdres.ɪŋ ˌteɪ.bəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us0692.mp3,bàn trang điểm (US vanity)
-vanity,/ˈvæn.ə.t̬i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74808.mp3,bàn trang điểm
-sink,/sɪŋk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sin/sink_/sink.mp3,"bồn rửa (rửa tay, mặt,...)"
-mirror,/ˈmɪr.ər/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mir/mirro/mirror.mp3,cái gương
-shower,/ʃaʊər/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sho/showe/shower.mp3,vòi hoa sen
-toilet,/ˈtɔɪ.lət/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/toi/toile/toilet.mp3,bồn cầu
-bathtub,/ˈbæθ.tʌb/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbas/usbasel024.mp3,bồn tắm
-towel,/taʊəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tow/towel/towel.mp3,khăn
-broom,/bruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bro/broom/broom.mp3,chổi quét
-mop,/mɑːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mop/mop__/mop.mp3,cây lau nhà
-dustpan,/ˈdʌst.pæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usd/usdur/usdurst008.mp3,đồ hốt rác
-bucket,/ˈbʌk.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/buc/bucke/bucket.mp3,cái xô
-trash can,/ˈtræʃ ˌkæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa35/usa35624.mp3,thùng rác
-washing machine,/ˈwɑː.ʃɪŋ məˌʃiːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01602.mp3,máy giặt quần áo
-laundry basket,/ˈlɑːn.dri ˌbæs.kɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33546.mp3,giỏ đựng quần áo
-hanger,/ˈhæŋ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72157.mp3,móc treo quần áo
+microwave,/ˈmaɪ.kroʊ.weɪv/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd060.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707264/microwave_gswx6h.jpg,lò vi sóng
+cooker,/ˈkʊk.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscon/usconve018.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707253/cooker_c5x1bn.jpg,nồi cơm điện
+blender,/ˈblen.dɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/ble/blend/blender.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707251/blender_nwtuo0.jpg,máy xay
+kettle,/ˈket̬.əl/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72674.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707261/kettle_akg5it.jpg,ấm đun nước
+tablecloth,/ˈteɪ.bəl.klɑːθ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/ust/ustab/ustable003.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707434/tablecloth_xo7nno.jpg,khăn trải bàn
+bed,/bed/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bed/bed__/bed.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707249/bed_hez5mr.jpg,cái giường
+mattress,/ˈmæt.rəs/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mat/mattr/mattress.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707264/mattress_ttbpb2.jpg,cái đệm
+blanket,/ˈblæŋ.kɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bla/blank/blanket.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707250/blanket_s6m0wu.jpg,cái chăn
+pillow,/ˈpɪl.oʊ/,noun,https://dictionary.cambridge.org/media/english/us_pron/p/pil/pillo/pillow.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707267/pillow_wastat.jpg,cái gối
+wardrobe,/ˈwɔːr.droʊb/,noun,https://dictionary.cambridge.org/media/english/us_pron/w/war/wardr/wardrobe.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707438/wardrobe_xapx16.jpg,tủ quần áo
+hairdryer,/ˈherˌdraɪ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld00611.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707260/hairdryer_fhat82.jpg,máy sấy tóc
+plant pot,/plænt pɑːt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01738.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707267/plant_pot_m088lz.jpg,chậu cây
+vase,/veɪs/,noun,https://dictionary.cambridge.org/media/english/us_pron/v/vas/vase_/vase.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707436/vase_dtdfcb.jpg,"bình hoa, lọ hoa"
+dressing table,/ˈdres.ɪŋ ˌteɪ.bəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cal/cald4/cald4us0692.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707256/dressing_table_aqk7jn.jpg,bàn trang điểm (US vanity)
+vanity,/ˈvæn.ə.t̬i/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus74/eus74808.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707256/dressing_table_aqk7jn.jpg,bàn trang điểm
+sink,/sɪŋk/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sin/sink_/sink.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/sink_cyxrkc.jpg,"bồn rửa (rửa tay, mặt,...)"
+mirror,/ˈmɪr.ər/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mir/mirro/mirror.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707265/mirror_yc69fj.jpg,cái gương
+shower,/ʃaʊər/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sho/showe/shower.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707432/shower_fhkq8o.jpg,vòi hoa sen
+toilet,/ˈtɔɪ.lət/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/toi/toile/toilet.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707435/toilet_s4xzsm.jpg,bồn cầu
+bathtub,/ˈbæθ.tʌb/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbas/usbasel024.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707248/bathroom_txrfqf.jpg,bồn tắm
+towel,/taʊəl/,noun,https://dictionary.cambridge.org/media/english/us_pron/t/tow/towel/towel.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707435/towel_f23sqs.jpg,khăn
+broom,/bruːm/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/bro/broom/broom.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707252/broom_qc8crb.jpg,chổi quét
+mop,/mɑːp/,noun,https://dictionary.cambridge.org/media/english/us_pron/m/mop/mop__/mop.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707266/mop_wkcwnq.jpg,cây lau nhà
+dustpan,/ˈdʌst.pæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usd/usdur/usdurst008.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707257/dustpan_wkw8rq.jpg,đồ hốt rác
+bucket,/ˈbʌk.ɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/b/buc/bucke/bucket.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707252/bucket_poqqlt.jpg,cái xô
+trash can,/ˈtræʃ ˌkæn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa35/usa35624.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707436/trash_can_rmk6dx.jpg,thùng rác
+washing machine,/ˈwɑː.ʃɪŋ məˌʃiːn/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscld/uscld01602.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707438/washing_machine_lcg6r8.jpg,máy giặt quần áo
+laundry basket,/ˈlɑːn.dri ˌbæs.kɪt/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usa/usa33/usa33546.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707263/laundry_basket_dcvan1.jpg,giỏ đựng quần áo
+hanger,/ˈhæŋ.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/e/eus/eus72/eus72157.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707261/hanger_c2aguk.jpg,móc treo quần áo

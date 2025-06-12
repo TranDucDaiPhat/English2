@@ -20,6 +20,7 @@
             background-color: rgb(115, 232, 232);
             justify-content: center;
             align-items: center;
+            flex-direction: column;
         }
 
         .imgIcon {
@@ -35,12 +36,14 @@
 
         .sound {
             top: 25px;
-            left: 25px; 
+            left: 25px;
         }
 
         #ipa,
         #pos,
-        #mean {
+        #mean,
+        #wrapper,
+        #img {
             display: none;
         }
 
@@ -57,10 +60,12 @@
             background-color: rgb(79, 109, 240);
             min-width: 85%;
         }
+
         .ipa {
             background-color: rgb(81, 205, 216);
             min-width: 55%;
         }
+
         .pos {
             background-color: rgb(81, 216, 117);
             min-width: 55%;
@@ -81,19 +86,60 @@
             padding: 5px;
             margin-bottom: 25px;
         }
-        
+
+        .wrapper {
+            width: 255px;
+            height: 165px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(167, 224, 197);;
+        }
+
+        .img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        #count {
+            font-size: 21px;
+        }
+
+        .back {
+            bottom: 5px;
+            left: 5px;
+        }
     </style>
 </head>
 
 <body>
     <div class="container">
+        <p id="count"></p>
+        <div style="width: 255px;height: 145px;margin: 15px 0 35px 0;">
+            <div class="wrapper" id="wrapper">
+                <img src="" alt="" id="img" class="img">
+            </div>
+        </div>
         <div class="content">
             <img src="image/32-unmute.png" alt="" class="sound imgIcon" id="sound-icon">
             <img src="image/32-reload.png" alt="" class="repeat imgIcon" id="repeat-icon">
-            <div class="word text"><h1 id="word">word</h1></div>
-            <div class="ipa text"><h1 id="ipa">ipa</h1></div>
-            <div class="pos text"><h1 id="pos">pos</h1></div>
-            <div class="mean"><h1 id="mean">mean</h1></div>
+            <div class="word text">
+                <h1 id="word">word</h1>
+            </div>
+            <div class="ipa text">
+                <h1 id="ipa">ipa</h1>
+            </div>
+            <div class="pos text">
+                <h1 id="pos">pos</h1>
+            </div>
+            <div class="mean">
+                <h1 id="mean">mean</h1>
+            </div>
+            <img src="image/back.png" alt="" class="back imgIcon" id="back">
         </div>
     </div>
 
