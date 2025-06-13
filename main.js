@@ -107,6 +107,7 @@ document.addEventListener('click', function (event) {
         } else {
             renderWord()
         }
+    } else {
         if (!isMuted) {
             playSound(audioUrl)
         }
