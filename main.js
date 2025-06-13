@@ -7,7 +7,7 @@ let audio = null
 let isMuted = false
 
 
-const word = document.getElementById('word');
+const word = document.getElementById('word-text');
 const ipa = document.getElementById('ipa');
 const pos = document.getElementById('pos');
 const mean = document.getElementById('mean');
@@ -21,6 +21,23 @@ img.onerror = () => {
 
 const soundIcon = document.getElementById('sound-icon');
 const repeatIcon = document.getElementById('repeat-icon');
+
+const tooltip = word.querySelector(".tooltip");
+
+const wordTooltip = document.getElementById('word');
+wordTooltip.addEventListener("click", () => {
+    const text = word.innerText.trim(); // loại bỏ tooltip text khỏi nội dung copy
+
+    navigator.clipboard.writeText(text).then(() => {
+        wordTooltip.classList.add("show-tooltip");
+
+        setTimeout(() => {
+            wordTooltip.classList.remove("show-tooltip");
+        }, 1500); // Ẩn tooltip sau 1.5 giây
+    }).catch((err) => {
+        console.error("Lỗi sao chép:", err);
+    });
+});
 
 soundIcon.onclick = function () {
     isMuted = !isMuted
@@ -80,7 +97,7 @@ function checkImage() {
 
 document.addEventListener('click', function (event) {
     // Bỏ qua nếu click vào ảnh
-    if (event.target.tagName.toLowerCase() === 'img') return;
+    if (event.target.tagName.toLowerCase() === 'img' || event.target.id === 'word-text') return;
 
     if (isShow) {
         currentIndex++
@@ -135,7 +152,7 @@ function renderWord() {
     img.src = _img
     audioUrl = _sound
 
-    count.innerText = `${currentIndex+1}/${lenListWord}`
+    count.innerText = `${currentIndex + 1}/${lenListWord}`
 }
 
 function start() {

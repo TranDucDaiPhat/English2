@@ -508,7 +508,7 @@ rug,/rʌɡ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/rug/ru
 cupboard,/ˈkʌb.ɚd/,noun,https://dictionary.cambridge.org/media/english/us_pron/c/cup/cupbo/cupboard.mp3,,tủ có kệ, thường dùng đựng chén bát
 refrigerator,/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/r/ref/refri/refrigerator.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707268/refrigerator_djb0u8.jpg,tủ lạnh
 stove,/stoʊv/,noun,https://dictionary.cambridge.org/media/english/us_pron/s/sto/stove/stove.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/stove_sx6ogk.jpg,bếp lò
-gas stove,/ɡæs stoʊv/,noun,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/stove_sx6ogk.jpg,bếp ga
+gas stove,/ɡæs stoʊv/,noun,,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707433/stove_sx6ogk.jpg,bếp ga
 electric stove,/ɪˈlek.trɪk stoʊv/,noun,,bếp điện
 microwave,/ˈmaɪ.kroʊ.weɪv/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usz/uszzz/uszzzzd060.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707264/microwave_gswx6h.jpg,lò vi sóng
 cooker,/ˈkʊk.ɚ/,noun,https://dictionary.cambridge.org/media/english/us_pron/u/usc/uscon/usconve018.mp3,https://res.cloudinary.com/dh0mkrnky/image/upload/v1749707253/cooker_c5x1bn.jpg,nồi cơm điện
