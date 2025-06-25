@@ -1,0 +1,5 @@
+﻿copy dữ liệu trong file excel. 
+Vào word, nhấn chuột phải chọn paste option: Keep text only
+ctrl H:
++ find what: ^t
++ replace with: ,

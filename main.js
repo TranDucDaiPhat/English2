@@ -168,7 +168,7 @@ function start() {
     renderWord()
 }
 
-getData("EngWord.txt")
+getData("CurrentList.txt")
     .then((data) => {
         listWord = data
         lenListWord = listWord.length
