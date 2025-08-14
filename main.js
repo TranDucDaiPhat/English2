@@ -5,15 +5,22 @@ let isShow = false
 let audioUrl = ''
 let audio = null
 let isMuted = false
+let checkNote = false
+let noteList = []
+let isClosingPopup = false;
+let openPopups = new Set();
 
+const $ = document.getElementById.bind(document)
 
-const word = document.getElementById('word-text');
-const ipa = document.getElementById('ipa');
-const pos = document.getElementById('pos');
-const mean = document.getElementById('mean');
-const img = document.getElementById('img');
-const count = document.getElementById('count');
-const back = document.getElementById('back');
+const word = $('word-text');
+const ipa = $('ipa');
+const pos = $('pos');
+const mean = $('mean');
+const img = $('img');
+const count = $('count');
+const back = $('back');
+const btnNote = $('btnNote');
+const iconCheckNote = $('noteIcon');
 
 img.onerror = () => {
     img.removeAttribute('src');
@@ -56,6 +63,13 @@ back.onclick = function () {
     }
 };
 
+btnNote.onclick = function () {
+    checkNote = !checkNote
+    if (checkListNote()) {
+        noteList.push(currentIndex)
+    }
+}
+
 function playSound(url) {
     // loại bỏ audio cũ
     if (audio) {
@@ -96,36 +110,42 @@ function checkImage() {
 }
 
 document.addEventListener('click', function (event) {
-    // Bỏ qua nếu click vào ảnh
-    if (event.target.tagName.toLowerCase() === 'img' || event.target.id === 'word-text') return;
+    setTimeout(() => {
+        if (isClosingPopup) {
+            return;
+        }
 
-    if (isShow) {
-        currentIndex++
-        if (currentIndex >= lenListWord) {
-            currentIndex = 0
-            start()
+        // Bỏ qua nếu click vào ảnh
+        if (event.target.tagName.toLowerCase() === 'img' || event.target.id === 'word-text' || event.target.id === 'btnNote') return;
+
+        if (isShow) {
+            currentIndex++
+            if (currentIndex >= lenListWord) {
+                currentIndex = 0
+                start()
+            } else {
+                renderWord()
+            }
         } else {
-            renderWord()
+            if (!isMuted) {
+                playSound(audioUrl)
+            }
         }
-    } else {
-        if (!isMuted) {
-            playSound(audioUrl)
-        }
-    }
-    isShow = !isShow
+        isShow = !isShow
 
-    const ids = ['ipa', 'pos', 'mean'];
+        const ids = ['ipa', 'pos', 'mean'];
 
-    ids.forEach(id => {
-        const el = document.getElementById(id);
-        if (el) {
-            // Dùng getComputedStyle để kiểm tra trạng thái hiển thị thực tế
-            const isHidden = window.getComputedStyle(el).display === 'none';
-            el.style.display = isHidden ? 'block' : 'none';
-        }
-    });
+        ids.forEach(id => {
+            const el = document.getElementById(id);
+            if (el) {
+                // Dùng getComputedStyle để kiểm tra trạng thái hiển thị thực tế
+                const isHidden = window.getComputedStyle(el).display === 'none';
+                el.style.display = isHidden ? 'block' : 'none';
+            }
+        });
 
-    checkImage()
+        checkImage()
+    }, 0);
 });
 
 function getData(filePath) {
@@ -153,7 +173,44 @@ function renderWord() {
     img.src = _img
     audioUrl = _sound
 
+    checkNote = checkNameListNote(_name)
+    checkListNote()
+
     count.innerText = `${currentIndex + 1}/${lenListWord}`
+}
+
+function checkNameListNote(name) {
+    for (i of noteList) {
+        if (splitWithLimit(listWord[i], ',', 1)[0] === name) {
+            return true
+        }
+    }
+    return false
+}
+
+function checkListNote() {
+    if (checkNote == false) {
+        removeWordFromNote(currentIndex)
+        return false
+    } else {
+        iconCheckNote.classList.add("isNote");
+        btnNote.classList.add("isNote");
+        return true
+    }
+}
+
+function removeWordFromNote(index) {
+    if (index == currentIndex) {
+        iconCheckNote.classList.remove("isNote");
+        btnNote.classList.remove("isNote");
+        checkNote = false
+    }
+    for (i in noteList) {
+        if (noteList[i] == index) {
+            noteList.splice(i, 1)
+            break;
+        }
+    }
 }
 
 function start() {
@@ -175,3 +232,79 @@ getData("CurrentList.txt")
         start()
     })
     .catch((e) => console.error(e));
+
+function openPopup(popupId) {
+    const popup = document.getElementById(popupId);
+    const overlay = document.getElementById(`overlay-${popupId}`);
+    if (!popup || !overlay) return;
+
+    popup.style.display = 'block';
+    overlay.style.display = 'block';
+
+    openPopups.add(popupId);
+    setTimeout(() => {
+        document.addEventListener('click', outsideClickListener);
+    }, 100);
+}
+
+function closePopup(popupId) {
+    const popup = document.getElementById(popupId);
+    const overlay = document.getElementById(`overlay-${popupId}`);
+
+    if (!popup || !overlay) return;
+
+    popup.style.display = 'none';
+    overlay.style.display = 'none';
+
+    openPopups.delete(popupId);
+
+    if (openPopups.size === 0) {
+        document.removeEventListener('click', outsideClickListener);
+    }
+}
+
+function openPopup1() {
+    renderItemList();
+    openPopup('popup1');
+}
+
+function outsideClickListener(event) {
+    for (let popupId of openPopups) {
+        const popup = document.getElementById(popupId);
+        if (!popup.contains(event.target)) {
+            isClosingPopup = true;
+            closePopup(popupId);
+        }
+    }
+    setTimeout(() => {
+        isClosingPopup = false;
+    }, 0);
+}
+
+function renderItemList() {
+    const itemList = document.getElementById('itemList');
+    itemList.innerHTML = ''; // Xoá danh sách cũ nếu có
+
+    noteList.forEach(index => {
+        const div = document.createElement('div');
+        let [name, ipa, pos, sound, img, mean] = splitWithLimit(listWord[index], ',', 5)
+        div.textContent = name;
+        div.classList.add('item');  
+        div.onclick = () => showDetailPopup({ index, name, ipa, pos, mean });
+        itemList.appendChild(div);
+    })
+}
+
+function showDetailPopup(word) {
+    $('detailName').textContent = word.name
+    $('detailIpa').textContent = word.ipa
+    $('detailPos').textContent = word.pos
+    $('detailMean').textContent = word.mean
+    $('remove-word').onclick = () => {
+        removeWordFromNote(word.index)
+        closePopup('popup2')
+        renderItemList()
+    }
+
+    openPopup('popup2');
+}

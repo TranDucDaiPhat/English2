@@ -97,7 +97,6 @@
             justify-content: center;
             align-items: center;
             background-color: rgb(167, 224, 197);
-            ;
         }
 
         .img {
@@ -140,6 +139,145 @@
             visibility: visible;
             opacity: 1;
         }
+
+        #note {
+            position: absolute;
+            bottom: 7px;
+            right: 5px;
+            background-color: rgb(80, 85, 253);
+            display: flex;
+            justify-content: center;
+            border-radius: 3px;
+            border: 1px solid gray;
+            padding: 1px;
+        }
+
+        .smallIcon {
+            width: 27px;
+            height: 27px;
+            margin-left: 3px;
+        }
+
+        .btnNote {
+            position: absolute;
+            font-size: larger;
+            bottom: 7px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: lightgray;
+            padding: 3px 6px;
+            display: flex;
+            align-items: center;
+            border-radius: 5px;
+        }
+
+        #noteIcon {
+            display: none;
+        }
+
+        #noteIcon.isNote {
+            display: inline-block;
+        }
+
+        #btnNote.isNote {
+            background-color: rgb(96, 241, 96);
+        }
+
+        .popup {
+            display: none;
+            position: fixed;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            z-index: 1000;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            font-size: larger;
+        }
+
+        .popup.popup1 {
+            bottom: 45px;
+            right: 35px;
+            width: 180px;
+            height: 250px;
+            background-color: #bfe6fd;
+        }
+
+        .popup.popup2 {
+            top: 50%;
+            left: 50%;
+            width: 265px;
+            height: 265px;
+            transform: translate(-50%, -50%);
+        }
+
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+
+        .item {
+            cursor: pointer;
+            margin: 2px 0 3px 0;
+            padding: 2px 2px 2px 5px;
+
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            background-color: #fafafa;
+            transition: background-color 0.2s ease;
+        }
+
+        .popup .list {
+            height: 200px;
+            background-color: #bfe6fd;
+            /* chiều cao vùng scroll */
+            overflow-y: auto;
+        }
+
+        .item:hover {
+            background-color: #d0e4fe;
+            box-shadow: 0 4px 4px rgba(31, 31, 31, 0.2);
+        }
+
+        .closeBtn {
+            position: absolute;
+            right: 5px;
+            top: 5px;
+            padding: 1px 5px 1px 5px;
+            background-color: #e6e6e6;
+            font-size: larger;
+            font-weight: bold;
+            border-radius: 3px;
+            border: 0.5px solid rgb(177, 177, 177);
+        }
+
+        .wrapperNoteDetail {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100%;
+            justify-content: center;
+            align-items: center;
+            background-color: #f3f1f1;
+        }
+
+        .remove-word {
+            position: absolute;
+            bottom: 5px;
+            left: 50%;
+            transform: translate(-50%);
+            padding: 2px 5px 2px 5px;
+            font-size: large;
+            border-radius: 3px;
+            background-color: rgb(248, 113, 113);
+        }
     </style>
 </head>
 
@@ -170,7 +308,32 @@
                 <h1 id="mean">mean</h1>
             </div>
             <img src="image/back.png" alt="" class="back imgIcon" id="back">
+
+            <button class="btnNote" id="btnNote">Note
+                <img src="image/32-check.png" alt="" class="smallIcon" id="noteIcon">
+            </button>
+
+            <button id="note" onclick="openPopup1()">
+                <img src="image/32-note.png" alt="">
+            </button>
         </div>
+    </div>
+    <div id="overlay-popup1" class="overlay"></div>
+    <div id="overlay-popup2" class="overlay"></div>
+    <div id="popup1" class="popup popup1" onclick="event.stopPropagation()">
+        <p style="text-align: center;margin-bottom: 2px;">Note</p>
+        <div id="itemList" class="list"></div>
+    </div>
+
+    <div id="popup2" class="popup popup2" onclick="event.stopPropagation()">
+        <button onclick="closePopup('popup2')" class="closeBtn">x</button>
+        <div class="wrapperNoteDetail">
+            <p id="detailName" style="font-size: xx-large;font-weight: bold;"></p>
+            <p id="detailIpa" style="font-size: larger;color: #0e5c89; margin-top: 8px;"></p>
+            <p id="detailPos" style="font-size: larger;color: #037024; margin-top: 8px"></p>
+            <p id="detailMean" style="font-size: larger;color: #540c18; margin-top: 8px; text-align: center;"></p>
+        </div>
+        <button class="remove-word" id="remove-word">Xoá</button>
     </div>
 
     <script src="./main.js"></script>
