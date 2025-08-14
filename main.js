@@ -56,14 +56,22 @@ repeatIcon.onclick = function () {
 }
 
 back.onclick = function () {
+    handleGoBack()
+};
+
+function handleGoBack() {
     if (currentIndex > 0) {
         currentIndex--;
         renderWord()
         checkImage()
     }
-};
+}
 
 btnNote.onclick = function () {
+    handleTakeNote()
+}
+
+function handleTakeNote() {
     checkNote = !checkNote
     if (checkListNote()) {
         noteList.push(currentIndex)
@@ -114,39 +122,42 @@ document.addEventListener('click', function (event) {
         if (isClosingPopup) {
             return;
         }
-
         // Bỏ qua nếu click vào ảnh
         if (event.target.tagName.toLowerCase() === 'img' || event.target.id === 'word-text' || event.target.id === 'btnNote') return;
-
-        if (isShow) {
-            currentIndex++
-            if (currentIndex >= lenListWord) {
-                currentIndex = 0
-                start()
-            } else {
-                renderWord()
-            }
-        } else {
-            if (!isMuted) {
-                playSound(audioUrl)
-            }
-        }
-        isShow = !isShow
-
-        const ids = ['ipa', 'pos', 'mean'];
-
-        ids.forEach(id => {
-            const el = document.getElementById(id);
-            if (el) {
-                // Dùng getComputedStyle để kiểm tra trạng thái hiển thị thực tế
-                const isHidden = window.getComputedStyle(el).display === 'none';
-                el.style.display = isHidden ? 'block' : 'none';
-            }
-        });
-
-        checkImage()
+        
+        handleClick()
     }, 0);
 });
+
+function handleClick() {
+    if (isShow) {
+        currentIndex++
+        if (currentIndex >= lenListWord) {
+            currentIndex = 0
+            start()
+        } else {
+            renderWord()
+        }
+    } else {
+        if (!isMuted) {
+            playSound(audioUrl)
+        }
+    }
+    isShow = !isShow
+
+    const ids = ['ipa', 'pos', 'mean'];
+
+    ids.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) {
+            // Dùng getComputedStyle để kiểm tra trạng thái hiển thị thực tế
+            const isHidden = window.getComputedStyle(el).display === 'none';
+            el.style.display = isHidden ? 'block' : 'none';
+        }
+    });
+
+    checkImage()
+}
 
 function getData(filePath) {
     return fetch(filePath)
@@ -289,7 +300,7 @@ function renderItemList() {
         const div = document.createElement('div');
         let [name, ipa, pos, sound, img, mean] = splitWithLimit(listWord[index], ',', 5)
         div.textContent = name;
-        div.classList.add('item');  
+        div.classList.add('item');
         div.onclick = () => showDetailPopup({ index, name, ipa, pos, mean });
         itemList.appendChild(div);
     })
@@ -308,3 +319,19 @@ function showDetailPopup(word) {
 
     openPopup('popup2');
 }
+
+document.addEventListener('keydown', function (event) {
+    if (event.key == ' ') {
+        event.preventDefault();
+        handleClick()
+    } else if (event.key == 'Control') {
+        playSound(audioUrl)
+    } else if (event.key == 'Shift') {
+        handleTakeNote()
+    } else if (event.key == 'ArrowLeft') {
+        handleGoBack()
+    } else if (event.key.toLowerCase() == 'm') {
+        isMuted = !isMuted
+        soundIcon.src = isMuted ? 'image/32-mute.png' : 'image/32-unmute.png';
+    }
+});
